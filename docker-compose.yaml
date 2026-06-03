@@ -1,7 +1,7 @@
 services:
   postgres:
     build: ./infra/postgres
-    container_name: postgres_db
+    container_name: postgres_musicabi
     restart: always
     environment:
       POSTGRES_USER: ${POSTGRES_USER}
@@ -16,7 +16,7 @@ services:
 
   pgadmin:
     image: dpage/pgadmin4
-    container_name: pgadmin
+    container_name: pgadmin_musicabi
     restart: always
     environment:
       PGADMIN_DEFAULT_EMAIL: musicabi@sysbi.com
@@ -30,7 +30,7 @@ services:
 
   airflow:
     build: ./infra/airflow
-    container_name: airflow
+    container_name: airflow_musicabi
     restart: always
     command: standalone
     environment:
