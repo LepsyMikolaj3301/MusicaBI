@@ -147,6 +147,9 @@ activemq-data/
 # SageMath parsed files
 *.sage.py
 
+# dlt secrets
+.dlt/secrets.toml
+
 # Environments
 .env
 .envrc
