@@ -37,14 +37,22 @@ services:
       _AIRFLOW_WWW_USER_USERNAME: ${AIRFLOW_USER}
       _AIRFLOW_WWW_USER_PASSWORD: ${AIRFLOW_PASSWORD}
       AIRFLOW__WEBSERVER__SECRET_KEY: ${AIRFLOW_SECRET_KEY}
+      # Make etl package importable from the mounted volume
+      PYTHONPATH: /opt/airflow
+      # Override localhost → docker service name so dlt can reach Postgres from inside the container
+      DESTINATION__POSTGRES__CREDENTIALS__HOST: postgres
     ports:
       - "8080:8080"
     volumes:
       - ./dags:/opt/airflow/dags
+      - ./etl:/opt/airflow/etl
+      - ./.dlt:/home/airflow/.dlt
       - airflow_logs:/opt/airflow/logs
       - airflow_db:/opt/airflow
     networks:
       - backend
+    depends_on:
+      - postgres
 
 volumes:
   postgres_data:

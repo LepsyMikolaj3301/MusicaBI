@@ -7,4 +7,6 @@ USER airflow
 RUN pip install --no-cache-dir \
     pandas \
     sqlalchemy \
-    duckdb
+    duckdb \
+    "dlt[postgres]>=1.4.0" \
+    "pytrends>=4.9.0"
