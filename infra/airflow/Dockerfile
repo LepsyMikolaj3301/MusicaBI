@@ -9,4 +9,5 @@ RUN pip install --no-cache-dir \
     sqlalchemy \
     duckdb \
     "dlt[postgres]>=1.4.0" \
-    "pytrends>=4.9.0"
+    "pytrends>=4.9.0" \
+ && mkdir -p /home/airflow/.dlt/pipelines

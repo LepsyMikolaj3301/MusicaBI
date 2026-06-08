@@ -46,7 +46,9 @@ services:
     volumes:
       - ./dags:/opt/airflow/dags
       - ./etl:/opt/airflow/etl
-      - ./.dlt:/home/airflow/.dlt
+      - ./.dlt/config.toml:/home/airflow/.dlt/config.toml:ro
+      - ./.dlt/secrets.toml:/home/airflow/.dlt/secrets.toml:ro
+      - dlt_pipelines:/home/airflow/.dlt/pipelines
       - airflow_logs:/opt/airflow/logs
       - airflow_db:/opt/airflow
     networks:
@@ -58,6 +60,7 @@ volumes:
   postgres_data:
   airflow_logs:
   airflow_db:
+  dlt_pipelines:
 
 networks:
   backend:

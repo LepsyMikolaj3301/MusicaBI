@@ -8,7 +8,6 @@ import pytest
 from etl.sources.spotify import (
     _get_token,
     _search_artist,
-    _fetch_spotify_artist,
     _fetch_spotify_albums,
 )
 
@@ -23,11 +22,12 @@ SEARCH_RESPONSE_HIT = {
     "artists": {
         "items": [
             {
+                # Spotify stripped popularity/followers/genres from search results in late 2024
                 "id": "4Z8W4fkeB5StMa5nKAIVGB",
                 "name": "Radiohead",
-                "popularity": 79,
-                "followers": {"total": 5_200_000},
-                "genres": ["alternative rock", "art rock", "oxford indie"],
+                "type": "artist",
+                "uri": "spotify:artist:4Z8W4fkeB5StMa5nKAIVGB",
+                "external_urls": {"spotify": "https://open.spotify.com/artist/4Z8W4fkeB5StMa5nKAIVGB"},
             }
         ]
     }
@@ -120,43 +120,6 @@ class TestSearchArtist:
         mock_get.return_value = _mock(SEARCH_RESPONSE_MISS)
         result = _search_artist("token", "xyzunknownband")
         assert result is None
-
-
-# ---------------------------------------------------------------------------
-# _fetch_spotify_artist
-# ---------------------------------------------------------------------------
-
-class TestFetchSpotifyArtist:
-    @patch("etl.sources.spotify.requests.get")
-    def test_schema_and_types(self, mock_get):
-        mock_get.return_value = _mock(SEARCH_RESPONSE_HIT)
-        result = _fetch_spotify_artist("token", "Radiohead")
-
-        assert result is not None
-        assert set(result.keys()) == {
-            "spotify_id", "name", "popularity", "followers_total", "genres"
-        }
-        assert isinstance(result["popularity"], int)
-        assert isinstance(result["followers_total"], int)
-        assert isinstance(result["genres"], list)
-
-    @patch("etl.sources.spotify.requests.get")
-    def test_returns_none_for_unknown_artist(self, mock_get):
-        mock_get.return_value = _mock(SEARCH_RESPONSE_MISS)
-        result = _fetch_spotify_artist("token", "NoSuchBand")
-        assert result is None
-
-    @patch("etl.sources.spotify.requests.get")
-    def test_genres_is_list_even_when_empty(self, mock_get):
-        no_genres = {
-            "artists": {
-                "items": [{"id": "x", "name": "New Artist", "popularity": 5,
-                           "followers": {"total": 100}, "genres": []}]
-            }
-        }
-        mock_get.return_value = _mock(no_genres)
-        result = _fetch_spotify_artist("token", "New Artist")
-        assert result["genres"] == []
 
 
 # ---------------------------------------------------------------------------

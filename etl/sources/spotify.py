@@ -40,19 +40,6 @@ def _search_artist(token: str, artist_name: str) -> dict | None:
     return items[0] if items else None
 
 
-def _fetch_spotify_artist(token: str, artist_name: str) -> dict | None:
-    raw = _search_artist(token, artist_name)
-    if not raw:
-        return None
-    return {
-        "spotify_id": raw["id"],
-        "name": raw["name"],
-        "popularity": raw.get("popularity", 0),
-        "followers_total": raw.get("followers", {}).get("total", 0),
-        "genres": raw.get("genres", []),
-    }
-
-
 def _fetch_spotify_albums(token: str, spotify_artist_id: str, artist_name: str) -> Iterator[dict]:
     url: str | None = f"{SPOTIFY_API_BASE}/artists/{spotify_artist_id}/albums"
     params: dict | None = {"limit": 10, "include_groups": "album,single"}
@@ -92,23 +79,7 @@ def spotify_source(
     artist_names: list | None = None,
 ):
     token = _get_token(client_id, client_secret)
-    return (
-        spotify_artists(token, artist_names or []),
-        spotify_albums(token, artist_names or []),
-    )
-
-
-@dlt.resource(
-    name="stg_spotify_artists",
-    write_disposition="replace",
-    primary_key="spotify_id",
-)
-def spotify_artists(token: str, artist_names: list) -> Iterator[dict]:
-    scraped_at = datetime.now(timezone.utc).isoformat()
-    for name in artist_names:
-        data = _fetch_spotify_artist(token, name)
-        if data:
-            yield {**data, "scraped_at": scraped_at}
+    return spotify_albums(token, artist_names or [])
 
 
 @dlt.resource(
