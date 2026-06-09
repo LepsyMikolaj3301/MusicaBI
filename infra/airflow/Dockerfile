@@ -10,4 +10,6 @@ RUN pip install --no-cache-dir \
     duckdb \
     "dlt[postgres]>=1.4.0" \
     "pytrends>=4.9.0" \
+    "dbt-core>=1.8.0" \
+    "dbt-postgres>=1.8.0" \
  && mkdir -p /home/airflow/.dlt/pipelines

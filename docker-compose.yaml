@@ -39,13 +39,15 @@ services:
       AIRFLOW__WEBSERVER__SECRET_KEY: ${AIRFLOW_SECRET_KEY}
       # Make etl package importable from the mounted volume
       PYTHONPATH: /opt/airflow
-      # Override localhost → docker service name so dlt can reach Postgres from inside the container
+      # Override localhost → docker service name so dlt and dbt can reach Postgres from inside the container
       DESTINATION__POSTGRES__CREDENTIALS__HOST: postgres
+      DBT_POSTGRES_HOST: postgres
     ports:
       - "8080:8080"
     volumes:
       - ./dags:/opt/airflow/dags
       - ./etl:/opt/airflow/etl
+      - ./transform:/opt/airflow/transform
       - ./.dlt/config.toml:/home/airflow/.dlt/config.toml:ro
       - ./.dlt/secrets.toml:/home/airflow/.dlt/secrets.toml:ro
       - dlt_pipelines:/home/airflow/.dlt/pipelines

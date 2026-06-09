@@ -14,6 +14,7 @@ import logging
 from datetime import datetime
 
 from airflow.decorators import dag, task
+from airflow.operators.bash import BashOperator
 
 log = logging.getLogger(__name__)
 
@@ -50,11 +51,19 @@ def music_pipeline():
         from etl.pipeline import run_google_trends
         run_google_trends(_artist_names())
 
-    # All four run in parallel — no inter-source dependencies at ingest stage
-    ingest_lastfm()
-    ingest_spotify()
-    ingest_musicbrainz()
-    ingest_google_trends()
+    # All four ingest tasks run in parallel — no inter-source dependencies.
+    # run_transforms waits for all of them so dbt sees a consistent staging snapshot.
+    t_lastfm = ingest_lastfm()
+    t_spotify = ingest_spotify()
+    t_musicbrainz = ingest_musicbrainz()
+    t_trends = ingest_google_trends()
+
+    run_transforms = BashOperator(
+        task_id="run_transforms",
+        bash_command="cd /opt/airflow/transform && dbt run --profiles-dir .",
+    )
+
+    [t_lastfm, t_spotify, t_musicbrainz, t_trends] >> run_transforms
 
 
 music_pipeline()
