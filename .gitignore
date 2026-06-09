@@ -222,3 +222,5 @@ __marimo__/
 
 # dbt user settings
 transform/.user.yml
+
+.venv-dbt

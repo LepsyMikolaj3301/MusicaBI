@@ -74,16 +74,18 @@ SELECT
     growth_velocity,
     ROUND(
         (
-            PERCENT_RANK() OVER (
-                PARTITION BY metric_date
-                ORDER BY GREATEST(COALESCE(growth_velocity, 0), 0)
-            ) * 0.7
-            + (
-                1.0 - PERCENT_RANK() OVER (
+            (
+                PERCENT_RANK() OVER (
                     PARTITION BY metric_date
-                    ORDER BY lastfm_listeners
-                )
-            ) * 0.3
-        ) * 100.0
+                    ORDER BY GREATEST(COALESCE(growth_velocity, 0), 0)
+                ) * 0.7
+                + (
+                    1.0 - PERCENT_RANK() OVER (
+                        PARTITION BY metric_date
+                        ORDER BY lastfm_listeners
+                    )
+                ) * 0.3
+            ) * 100.0
+        )::numeric
     , 2) AS breakout_score
 FROM joined
