@@ -29,6 +29,7 @@ def _fetch_musicbrainz_artist(artist_name: str) -> dict | None:
         return None
     a = artists[0]
     area = a.get("area") or {}
+    lifespan_begin = (a.get("life-span") or {}).get("begin", "")
     return {
         "mbid": a.get("id", ""),
         "name": a.get("name", artist_name),
@@ -37,6 +38,7 @@ def _fetch_musicbrainz_artist(artist_name: str) -> dict | None:
         "country": a.get("country") or area.get("name") or "Unknown",
         "disambiguation": a.get("disambiguation", ""),
         "artist_type": a.get("type", ""),
+        "debut_year": int(lifespan_begin[:4]) if lifespan_begin else None,
     }
 
 

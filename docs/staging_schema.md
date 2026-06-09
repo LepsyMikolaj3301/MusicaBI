@@ -49,6 +49,7 @@ Rows: 5 | Write disposition: `replace`
 | `country` | varchar | | ISO 3166-1 alpha-2 |
 | `disambiguation` | varchar | | Clarifying note (e.g. "UK rock band") |
 | `artist_type` | varchar | | `Person`, `Group`, etc. |
+| `debut_year` | smallint | | Year from `life-span.begin`; NULL if unknown |
 | `scraped_at` | timestamptz | | |
 
 ---

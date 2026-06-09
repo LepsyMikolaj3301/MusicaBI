@@ -22,6 +22,7 @@ MB_RESPONSE_FULL = {
             "area": {"name": "United Kingdom"},
             "disambiguation": "",
             "type": "Group",
+            "life-span": {"begin": "1985-01-01", "ended": False},
         }
     ]
 }
@@ -74,7 +75,7 @@ class TestFetchMusicBrainzArtist:
 
         assert result is not None
         assert set(result.keys()) == {
-            "mbid", "name", "sort_name", "country", "disambiguation", "artist_type"
+            "mbid", "name", "sort_name", "country", "disambiguation", "artist_type", "debut_year"
         }
 
     @patch("etl.sources.musicbrainz.requests.get")
@@ -121,3 +122,18 @@ class TestFetchMusicBrainzArtist:
         _, kwargs = mock_get.call_args
         assert "User-Agent" in kwargs["headers"]
         assert "MusicaBI" in kwargs["headers"]["User-Agent"]
+
+    @patch("etl.sources.musicbrainz.requests.get")
+    def test_debut_year_extracted_as_integer(self, mock_get):
+        mock_get.return_value = _mock(MB_RESPONSE_FULL)
+        result = _fetch_musicbrainz_artist("Radiohead")
+
+        assert result["debut_year"] == 1985
+        assert isinstance(result["debut_year"], int)
+
+    @patch("etl.sources.musicbrainz.requests.get")
+    def test_debut_year_none_when_lifespan_absent(self, mock_get):
+        mock_get.return_value = _mock(MB_RESPONSE_NO_AREA_EITHER)
+        result = _fetch_musicbrainz_artist("Anonymous")
+
+        assert result["debut_year"] is None
