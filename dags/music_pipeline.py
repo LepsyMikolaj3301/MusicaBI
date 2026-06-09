@@ -28,6 +28,13 @@ log = logging.getLogger(__name__)
 )
 def music_pipeline():
     def _artist_names() -> list:
+        try:
+            from etl.pipeline import load_artists_from_file
+            artists = load_artists_from_file()
+            if artists:
+                return artists
+        except Exception:
+            pass
         import dlt
         return list(dlt.config.get("pipeline.artist_names") or [])
 

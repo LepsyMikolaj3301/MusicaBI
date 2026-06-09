@@ -1,0 +1,4162 @@
+{
+  "Chappell Roan": [
+    {
+      "spotify_album_id": "mock_album_409006e5-1a8e-4f1e-9de5-a1a296f28823",
+      "spotify_artist_id": "mock_artist_chappell_roan",
+      "artist_name": "Chappell Roan",
+      "title": "Good Hurt",
+      "release_date": "2017-08-04",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_7a5e83f9-42bf-42d1-9889-ea9a36f8622b",
+      "spotify_artist_id": "mock_artist_chappell_roan",
+      "artist_name": "Chappell Roan",
+      "title": "California",
+      "release_date": "2020-05-29",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_9a161b77-0192-45ea-9e13-96e7484a8e5b",
+      "spotify_artist_id": "mock_artist_chappell_roan",
+      "artist_name": "Chappell Roan",
+      "title": "Bitter",
+      "release_date": "2018-02-02",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_9b52e18c-7376-46af-b854-295b4a28763b",
+      "spotify_artist_id": "mock_artist_chappell_roan",
+      "artist_name": "Chappell Roan",
+      "title": "Love Me Anyway",
+      "release_date": "2020-05-01",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_c7085645-091f-4680-a348-521fe8a0ec7f",
+      "spotify_artist_id": "mock_artist_chappell_roan",
+      "artist_name": "Chappell Roan",
+      "title": "Pink Pony Club",
+      "release_date": "2020-04-03",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Sabrina Carpenter": [
+    {
+      "spotify_album_id": "mock_album_098b431c-7e67-42ff-841a-ca79cac99a09",
+      "spotify_artist_id": "mock_artist_sabrina_carpenter",
+      "artist_name": "Sabrina Carpenter",
+      "title": "Eyes Wide Open",
+      "release_date": "2015-04-14",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_18ba0c1c-cafb-405e-b5a1-08ebaad4a3d3",
+      "spotify_artist_id": "mock_artist_sabrina_carpenter",
+      "artist_name": "Sabrina Carpenter",
+      "title": "Track by Track: Sabrina Carpenter",
+      "release_date": "2024-08-26",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_192a95dc-d993-4768-9f77-4496b6460400",
+      "spotify_artist_id": "mock_artist_sabrina_carpenter",
+      "artist_name": "Sabrina Carpenter",
+      "title": "Man’s Best Friend",
+      "release_date": "2025-08-29",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_5fbab65e-737a-4883-8162-850eae076393",
+      "spotify_artist_id": "mock_artist_sabrina_carpenter",
+      "artist_name": "Sabrina Carpenter",
+      "title": "Singular: Act II",
+      "release_date": "2019-07-19",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_6bbcb652-6188-4a5c-9125-b745d16e1f27",
+      "spotify_artist_id": "mock_artist_sabrina_carpenter",
+      "artist_name": "Sabrina Carpenter",
+      "title": "emails i can’t send",
+      "release_date": "2022-07-15",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Benson Boone": [
+    {
+      "spotify_album_id": "mock_album_0a82da9b-218a-40e0-8d12-dad21834658f",
+      "spotify_artist_id": "mock_artist_benson_boone",
+      "artist_name": "Benson Boone",
+      "title": "ROOM FOR 2",
+      "release_date": "2022-02-18",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_4ec78537-4a8c-48a3-8da6-cd936b1ba862",
+      "spotify_artist_id": "mock_artist_benson_boone",
+      "artist_name": "Benson Boone",
+      "title": "GHOST TOWN",
+      "release_date": "2021-10-15",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_5962e7d1-49bf-4f73-85fd-ef1eeffb5da2",
+      "spotify_artist_id": "mock_artist_benson_boone",
+      "artist_name": "Benson Boone",
+      "title": "GHOST TOWN (cassette version)",
+      "release_date": "2021-10-15",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_8933281e-8a5f-4d34-8504-c6a0e8cd5912",
+      "spotify_artist_id": "mock_artist_benson_boone",
+      "artist_name": "Benson Boone",
+      "title": "GHOST TOWN (campfire version)",
+      "release_date": "2021-10-15",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_8e25d6da-5fd3-4f30-9735-7ac39ddb9816",
+      "spotify_artist_id": "mock_artist_benson_boone",
+      "artist_name": "Benson Boone",
+      "title": "American Heart",
+      "release_date": "2025-06-20",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Shaboozey": [
+    {
+      "spotify_album_id": "mock_album_shaboozey_fallback",
+      "spotify_artist_id": "mock_artist_shaboozey",
+      "artist_name": "Shaboozey",
+      "title": "The Best of Shaboozey",
+      "release_date": "2024-01-01",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Tommy Richman": [
+    {
+      "spotify_album_id": "mock_album_tommy_richman_fallback",
+      "spotify_artist_id": "mock_artist_tommy_richman",
+      "artist_name": "Tommy Richman",
+      "title": "The Best of Tommy Richman",
+      "release_date": "2024-01-01",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Tyla": [
+    {
+      "spotify_album_id": "mock_album_0be0ac2a-83ca-3be4-8348-770715dba906",
+      "spotify_artist_id": "mock_artist_tyla",
+      "artist_name": "Tyla",
+      "title": "The Life & Times of a Ballad Monger",
+      "release_date": "1995-11",
+      "release_date_precision": "month",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_468e3757-f4b8-35ac-aaef-a9f6a6098393",
+      "spotify_artist_id": "mock_artist_tyla",
+      "artist_name": "Tyla",
+      "title": "Mightier Than the Sword, Volume 2",
+      "release_date": "2004",
+      "release_date_precision": "year",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_56c0beb5-728c-43d0-a38a-72002f0908fb",
+      "spotify_artist_id": "mock_artist_tyla",
+      "artist_name": "Tyla",
+      "title": "As It Was How It Is Vol. I",
+      "release_date": "2005-08-02",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_56d2a1d9-c943-3332-8c3f-af8f724a6903",
+      "spotify_artist_id": "mock_artist_tyla",
+      "artist_name": "Tyla",
+      "title": "Nocturnal Nomad",
+      "release_date": "1999-02-08",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_5e9b9bbc-7d67-3a39-ba87-50c68085f12c",
+      "spotify_artist_id": "mock_artist_tyla",
+      "artist_name": "Tyla",
+      "title": "Fakin' Kant",
+      "release_date": "2003",
+      "release_date_precision": "year",
+      "album_type": "album"
+    }
+  ],
+  "Teddy Swims": [
+    {
+      "spotify_album_id": "mock_album_7034130b-9aef-4a12-8626-3889f14795a7",
+      "spotify_artist_id": "mock_artist_teddy_swims",
+      "artist_name": "Teddy Swims",
+      "title": "I've Tried Everything but Therapy (Part 2)",
+      "release_date": "2025-01-24",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_8ce1c617-1b5c-49c4-808d-19d275e936c3",
+      "spotify_artist_id": "mock_artist_teddy_swims",
+      "artist_name": "Teddy Swims",
+      "title": "I’ve Tried Everything but Therapy (complete edition)",
+      "release_date": "2025-06-27",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_9158fd07-1bce-4cb1-9997-b57892b85825",
+      "spotify_artist_id": "mock_artist_teddy_swims",
+      "artist_name": "Teddy Swims",
+      "title": "I've Tried Everything but Therapy (Part 1)",
+      "release_date": "2023-06-10",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_b0a11f40-b8c3-472b-a295-831885e65936",
+      "spotify_artist_id": "mock_artist_teddy_swims",
+      "artist_name": "Teddy Swims",
+      "title": "I’ve Tried Everything but Therapy (Part 1)",
+      "release_date": "2024-01-19",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Sexyy Red": [
+    {
+      "spotify_album_id": "mock_album_sexyy_red_fallback",
+      "spotify_artist_id": "mock_artist_sexyy_red",
+      "artist_name": "Sexyy Red",
+      "title": "The Best of Sexyy Red",
+      "release_date": "2024-01-01",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "The Last Dinner Party": [
+    {
+      "spotify_album_id": "mock_album_0bb63e10-4170-40ed-aeb7-8788bd4737d1",
+      "spotify_artist_id": "mock_artist_the_last_dinner_party",
+      "artist_name": "The Last Dinner Party",
+      "title": "Nothing Matters",
+      "release_date": "2023-04-19",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_0ceb8dfd-b075-45c8-b8ad-ccebe3dd5176",
+      "spotify_artist_id": "mock_artist_the_last_dinner_party",
+      "artist_name": "The Last Dinner Party",
+      "title": "Prelude to Ecstasy: Acoustics & Covers",
+      "release_date": "2024-10-11",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_12d66726-482c-40ce-9336-44c34cebc07e",
+      "spotify_artist_id": "mock_artist_the_last_dinner_party",
+      "artist_name": "The Last Dinner Party",
+      "title": "From the Pyre",
+      "release_date": "2025-10-17",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_15a222b9-56c2-4e8e-98db-f80c5655f09e",
+      "spotify_artist_id": "mock_artist_the_last_dinner_party",
+      "artist_name": "The Last Dinner Party",
+      "title": "Caesar on a TV Screen",
+      "release_date": "2024-01-04",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_a9068888-384f-407b-bfd8-8d85095617c6",
+      "spotify_artist_id": "mock_artist_the_last_dinner_party",
+      "artist_name": "The Last Dinner Party",
+      "title": "My Lady of Mercy",
+      "release_date": "2023-10-09",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Mk.gee": [
+    {
+      "spotify_album_id": "mock_album_318b133d-0834-476a-9659-44b743e447c9",
+      "spotify_artist_id": "mock_artist_mk.gee",
+      "artist_name": "Mk.gee",
+      "title": "Candy / How many miles",
+      "release_date": "2023-08-11",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_427bdcad-fe4e-479b-a0fd-04cc118c3291",
+      "spotify_artist_id": "mock_artist_mk.gee",
+      "artist_name": "Mk.gee",
+      "title": "cz",
+      "release_date": "2020-02-28",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_4c610daa-c8ab-48a2-a5e9-8a429bdb5a96",
+      "spotify_artist_id": "mock_artist_mk.gee",
+      "artist_name": "Mk.gee",
+      "title": "You",
+      "release_date": "2018-06-08",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_671f94f8-cc94-4f6c-af48-39aa57a1af58",
+      "spotify_artist_id": "mock_artist_mk.gee",
+      "artist_name": "Mk.gee",
+      "title": "A Museum of Contradiction",
+      "release_date": "2020-05-22",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_be4a083e-be93-4715-8a22-b06539ccacc4",
+      "spotify_artist_id": "mock_artist_mk.gee",
+      "artist_name": "Mk.gee",
+      "title": "Two Star & The Dream Police",
+      "release_date": "2024-02-09",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Renée Rapp": [
+    {
+      "spotify_album_id": "mock_album_0d25771b-8dd7-43d1-99b8-4ecb5758bbfc",
+      "spotify_artist_id": "mock_artist_renée_rapp",
+      "artist_name": "Renée Rapp",
+      "title": "Snow Angel",
+      "release_date": "2023-06-09",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_1ef4c9d0-a510-4f9f-9bae-51ec0fe27572",
+      "spotify_artist_id": "mock_artist_renée_rapp",
+      "artist_name": "Renée Rapp",
+      "title": "BITE ME",
+      "release_date": "2025-08-01",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_2baf7b3c-6df0-4ca1-bd63-05c47c33f7b2",
+      "spotify_artist_id": "mock_artist_renée_rapp",
+      "artist_name": "Renée Rapp",
+      "title": "Snow Angel",
+      "release_date": "2023-08-18",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_6a8fbe94-838e-493f-aafc-19eaf1758093",
+      "spotify_artist_id": "mock_artist_renée_rapp",
+      "artist_name": "Renée Rapp",
+      "title": "Leave Me Alone",
+      "release_date": "2025-05-21",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_900d866f-1f5d-4972-8436-91ab61e22634",
+      "spotify_artist_id": "mock_artist_renée_rapp",
+      "artist_name": "Renée Rapp",
+      "title": "Mad",
+      "release_date": "2025-06-27",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Doechii": [
+    {
+      "spotify_album_id": "mock_album_1156b39d-85e3-4509-ba4f-570e8bfa022d",
+      "spotify_artist_id": "mock_artist_doechii",
+      "artist_name": "Doechii",
+      "title": "Right Now",
+      "release_date": "2020-07-30",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_2b837d13-b456-4c0c-98d6-afe4aeda417b",
+      "spotify_artist_id": "mock_artist_doechii",
+      "artist_name": "Doechii",
+      "title": "Alligator Bites Never Heal",
+      "release_date": "2024-08-30",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_54327f73-872d-4570-aa17-ac1168ebb558",
+      "spotify_artist_id": "mock_artist_doechii",
+      "artist_name": "Doechii",
+      "title": "Coven Music Session, Vol. 1",
+      "release_date": "2019-05-15",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_77a8db16-fd8b-4b3d-9bd4-49f82c61ff2a",
+      "spotify_artist_id": "mock_artist_doechii",
+      "artist_name": "Doechii",
+      "title": "Afro Blues",
+      "release_date": "2020-02-22",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_9b5a4a4f-5db7-4017-a98a-cb2fb049aad2",
+      "spotify_artist_id": "mock_artist_doechii",
+      "artist_name": "Doechii",
+      "title": "Spookie Coochie",
+      "release_date": "2019-10-20",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Lay Bankz": [
+    {
+      "spotify_album_id": "mock_album_0803f2cc-249c-47b7-8332-c9a0b8ba6b26",
+      "spotify_artist_id": "mock_artist_lay_bankz",
+      "artist_name": "Lay Bankz",
+      "title": "Da Girls (dance mix)",
+      "release_date": "2023-05-12",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_2a929291-be4e-4b81-965a-40fea0b664ef",
+      "spotify_artist_id": "mock_artist_lay_bankz",
+      "artist_name": "Lay Bankz",
+      "title": "Woah",
+      "release_date": "2023-07-11",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_36b39ac5-cf21-4314-9e90-f008e37db157",
+      "spotify_artist_id": "mock_artist_lay_bankz",
+      "artist_name": "Lay Bankz",
+      "title": "RUN!",
+      "release_date": "2024-08-07",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_58ae5f64-db85-4f6a-ba91-450280d4d503",
+      "spotify_artist_id": "mock_artist_lay_bankz",
+      "artist_name": "Lay Bankz",
+      "title": "Tell Ur Girlfriend",
+      "release_date": "2024-02-07",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_7c081fb8-67c1-4929-9282-2d14fd518910",
+      "spotify_artist_id": "mock_artist_lay_bankz",
+      "artist_name": "Lay Bankz",
+      "title": "Sloppy Seconds (Ick Pt. 2)",
+      "release_date": "2023-11-22",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Friko": [
+    {
+      "spotify_album_id": "mock_album_006f2a10-1520-4779-ab23-6651dc900f26",
+      "spotify_artist_id": "mock_artist_friko",
+      "artist_name": "Friko",
+      "title": "IN_OUT",
+      "release_date": "2022-02-12",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_23d9015c-7e55-4720-bc04-c947268fcee5",
+      "spotify_artist_id": "mock_artist_friko",
+      "artist_name": "Friko",
+      "title": "Something Worth Waiting For",
+      "release_date": "2026-04-24",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_4a163d6c-28d1-4665-8ac3-2f626cbf0d12",
+      "spotify_artist_id": "mock_artist_friko",
+      "artist_name": "Friko",
+      "title": "Golden Record",
+      "release_date": "2020-03-18",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_def608ca-aba7-4641-ab8d-3101a5875ca9",
+      "spotify_artist_id": "mock_artist_friko",
+      "artist_name": "Friko",
+      "title": "Burnout Beautiful (Demos)",
+      "release_date": "2019-11-16",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_febc2922-299e-427f-a29e-683ff19c4c26",
+      "spotify_artist_id": "mock_artist_friko",
+      "artist_name": "Friko",
+      "title": "Where we’ve been, Where we go from here",
+      "release_date": "2024-02-16",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Been Stellar": [
+    {
+      "spotify_album_id": "mock_album_072be2b6-5cab-491d-a166-861459e5f992",
+      "spotify_artist_id": "mock_artist_been_stellar",
+      "artist_name": "Been Stellar",
+      "title": "Sweet",
+      "release_date": "2024-04-17",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_2fc080ec-fdc6-45be-b925-91329ed9afd4",
+      "spotify_artist_id": "mock_artist_been_stellar",
+      "artist_name": "Been Stellar",
+      "title": "Breakaway",
+      "release_date": "2025-06-04",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_9538a8fd-fb7b-4abc-9e81-759ad5ed09ae",
+      "spotify_artist_id": "mock_artist_been_stellar",
+      "artist_name": "Been Stellar",
+      "title": "Scream From New York, NY",
+      "release_date": "2024-06-21",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_bf8f4701-6a40-4d13-bc5e-e282a513087b",
+      "spotify_artist_id": "mock_artist_been_stellar",
+      "artist_name": "Been Stellar",
+      "title": "Always On My Mind",
+      "release_date": "2025-08-21",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_efa8891e-1743-42e3-95a7-4e7b178f4abd",
+      "spotify_artist_id": "mock_artist_been_stellar",
+      "artist_name": "Been Stellar",
+      "title": "Adored",
+      "release_date": "2025-07-10",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Royel Otis": [
+    {
+      "spotify_album_id": "mock_album_1fc06f0e-19f4-436a-9237-fc0d797ba8ae",
+      "spotify_artist_id": "mock_artist_royel_otis",
+      "artist_name": "Royel Otis",
+      "title": "PRATTS & PAIN",
+      "release_date": "2024-02-09",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_8f0ba068-e2db-4c81-ab02-605c1eadbc8c",
+      "spotify_artist_id": "mock_artist_royel_otis",
+      "artist_name": "Royel Otis",
+      "title": "Only One",
+      "release_date": "2021-07-22",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_928f6294-561c-4a91-bf6c-3e4acbf56bf4",
+      "spotify_artist_id": "mock_artist_royel_otis",
+      "artist_name": "Royel Otis",
+      "title": "Oysters in My Pocket",
+      "release_date": "2022-03-10",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_a5a7a4ab-11d2-48fa-be8b-c811f2168765",
+      "spotify_artist_id": "mock_artist_royel_otis",
+      "artist_name": "Royel Otis",
+      "title": "hickey",
+      "release_date": "2025-08-21",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_ba00eef6-70cf-42ec-aa2d-61812c135d6d",
+      "spotify_artist_id": "mock_artist_royel_otis",
+      "artist_name": "Royel Otis",
+      "title": "Bull Breed",
+      "release_date": "2022-06-02",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "GloRilla": [
+    {
+      "spotify_album_id": "mock_album_100a1f19-406e-407b-87a1-c613a6151a86",
+      "spotify_artist_id": "mock_artist_glorilla",
+      "artist_name": "GloRilla",
+      "title": "Outside",
+      "release_date": "2021-04-16",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_10ff087f-a8c2-469e-a78a-58835eabf106",
+      "spotify_artist_id": "mock_artist_glorilla",
+      "artist_name": "GloRilla",
+      "title": "Afford Me",
+      "release_date": "2019-02-21",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_1625eb15-cfd9-43b3-80bc-9219661c3a9e",
+      "spotify_artist_id": "mock_artist_glorilla",
+      "artist_name": "GloRilla",
+      "title": "GLORIOUS",
+      "release_date": "2024-10-11",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_176edca3-103c-4793-9ddc-3c053ca03cd1",
+      "spotify_artist_id": "mock_artist_glorilla",
+      "artist_name": "GloRilla",
+      "title": "You Ain’t Shit",
+      "release_date": "2020-12-13",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_28ba3ac1-3ae8-41ec-9941-5ef8dc93bd11",
+      "spotify_artist_id": "mock_artist_glorilla",
+      "artist_name": "GloRilla",
+      "title": "Gangsta Art 2",
+      "release_date": "2023-09-29",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Bossman DLow": [
+    {
+      "spotify_album_id": "mock_album_3cab4f1e-3e1c-4a9e-8bfa-d143f40fd186",
+      "spotify_artist_id": "mock_artist_bossman_dlow",
+      "artist_name": "Bossman DLow",
+      "title": "Mr. Beat the Road",
+      "release_date": "2024-03-15",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_63b20620-f709-4611-b194-8ee90fc7f346",
+      "spotify_artist_id": "mock_artist_bossman_dlow",
+      "artist_name": "Bossman DLow",
+      "title": "Chicken Talkin Bastard",
+      "release_date": "2026-04-10",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_94b69d39-57bc-45c7-83ae-06f046ff75a0",
+      "spotify_artist_id": "mock_artist_bossman_dlow",
+      "artist_name": "Bossman DLow",
+      "title": "Biker",
+      "release_date": "2023-05-18",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_babec404-2cc7-464b-b83d-f9c7e4762239",
+      "spotify_artist_id": "mock_artist_bossman_dlow",
+      "artist_name": "Bossman DLow",
+      "title": "Dlow Curry",
+      "release_date": "2024-12-13",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_c3613bfa-413a-4b91-8179-de77f9912772",
+      "spotify_artist_id": "mock_artist_bossman_dlow",
+      "artist_name": "Bossman DLow",
+      "title": "Too Slippery",
+      "release_date": "2023-01-01",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Gracie Abrams": [
+    {
+      "spotify_album_id": "mock_album_196c4d08-6e03-4b9e-a145-7ca53be2c0a9",
+      "spotify_artist_id": "mock_artist_gracie_abrams",
+      "artist_name": "Gracie Abrams",
+      "title": "The Good Riddance Acoustic Shows (live)",
+      "release_date": "2024-02-23",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_22fb5ec3-d18c-43d9-aee4-5a1056049605",
+      "spotify_artist_id": "mock_artist_gracie_abrams",
+      "artist_name": "Gracie Abrams",
+      "title": "This Is What It Feels Like",
+      "release_date": "2021-11-12",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_27608ec6-2687-4405-a7e1-66866c5eab95",
+      "spotify_artist_id": "mock_artist_gracie_abrams",
+      "artist_name": "Gracie Abrams",
+      "title": "In Between",
+      "release_date": "2016",
+      "release_date_precision": "year",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_7327f8ca-5b26-4652-9aa2-00d4f6f7f88f",
+      "spotify_artist_id": "mock_artist_gracie_abrams",
+      "artist_name": "Gracie Abrams",
+      "title": "The Secret of Us (live from Radio City Music Hall)",
+      "release_date": "2025-04-12",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_b29dd134-89c2-40dd-bafd-163952ed6abe",
+      "spotify_artist_id": "mock_artist_gracie_abrams",
+      "artist_name": "Gracie Abrams",
+      "title": "Good Riddance",
+      "release_date": "2023-02-24",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Wave to Earth": [
+    {
+      "spotify_album_id": "mock_album_4c859e03-3e52-408a-88d8-ca923abfe9b5",
+      "spotify_artist_id": "mock_artist_wave_to_earth",
+      "artist_name": "Wave to Earth",
+      "title": "pueblo",
+      "release_date": "2020-12-03",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_4cafc097-ac47-40d7-be73-3f32703c76ea",
+      "spotify_artist_id": "mock_artist_wave_to_earth",
+      "artist_name": "Wave to Earth",
+      "title": "light",
+      "release_date": "2019-11-18",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_5ac8ad8b-81b1-4ae8-8578-c3a820d20a06",
+      "spotify_artist_id": "mock_artist_wave_to_earth",
+      "artist_name": "Wave to Earth",
+      "title": "wave",
+      "release_date": "2019-08-23",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_a11dd070-2e60-4ce9-9c28-6552f1df421e",
+      "spotify_artist_id": "mock_artist_wave_to_earth",
+      "artist_name": "Wave to Earth",
+      "title": "daisy.",
+      "release_date": "2021-05-13",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_adc2c452-fc5c-47e4-b0d3-ddc790a5f9ee",
+      "spotify_artist_id": "mock_artist_wave_to_earth",
+      "artist_name": "Wave to Earth",
+      "title": "0.1 flaws and all.",
+      "release_date": "2023-04-20",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Laufey": [
+    {
+      "spotify_album_id": "mock_album_123eb990-1ea2-4650-b3e3-aca458956d25",
+      "spotify_artist_id": "mock_artist_laufey",
+      "artist_name": "Laufey",
+      "title": "A Matter of Time",
+      "release_date": "2025-08-22",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_152c6b72-c25f-48ba-b392-11cf347d73c0",
+      "spotify_artist_id": "mock_artist_laufey",
+      "artist_name": "Laufey",
+      "title": "A Matter of Time: Live at Madison Square Garden",
+      "release_date": "2026-04-18",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_2ee3202d-0f2e-40f6-a3c8-c7fca3f2c1c7",
+      "spotify_artist_id": "mock_artist_laufey",
+      "artist_name": "Laufey",
+      "title": "Songline",
+      "release_date": "2025-09-26",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_53dab9a8-4fc7-45f9-b667-79da8bb85a71",
+      "spotify_artist_id": "mock_artist_laufey",
+      "artist_name": "Laufey",
+      "title": "Everything I Know About Love",
+      "release_date": "2022-08-26",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_6748d39c-02ec-4d40-898f-7014bd9335b8",
+      "spotify_artist_id": "mock_artist_laufey",
+      "artist_name": "Laufey",
+      "title": "A Night at the Symphony",
+      "release_date": "2023-03-02",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "ILLIT": [
+    {
+      "spotify_album_id": "mock_album_001f0398-a6de-4fff-a3d3-401b5341ecf4",
+      "spotify_artist_id": "mock_artist_illit",
+      "artist_name": "ILLIT",
+      "title": "Topping",
+      "release_date": "2025-08-10",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_23789b24-3292-43c7-8395-6da93ae17628",
+      "spotify_artist_id": "mock_artist_illit",
+      "artist_name": "ILLIT",
+      "title": "時よ止まれ",
+      "release_date": "2025-09-01",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_46336fb9-d9d6-4322-b044-d7f7ded5e5e2",
+      "spotify_artist_id": "mock_artist_illit",
+      "artist_name": "ILLIT",
+      "title": "Baby It’s Both (Tick-Tack English ver.)",
+      "release_date": "2024-11-22",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_505f9661-6a77-4447-ba1e-d482b1f7f367",
+      "spotify_artist_id": "mock_artist_illit",
+      "artist_name": "ILLIT",
+      "title": "Almond Chocolate",
+      "release_date": "2025-02-14",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_b555f2af-d3cc-4552-9113-9e495a132436",
+      "spotify_artist_id": "mock_artist_illit",
+      "artist_name": "ILLIT",
+      "title": "Almond Chocolate (Korean ver.)",
+      "release_date": "2025-03-10",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Babymonster": [
+    {
+      "spotify_album_id": "mock_album_01f65d54-64f8-4c9c-a1eb-a29d02d82765",
+      "spotify_artist_id": "mock_artist_babymonster",
+      "artist_name": "Babymonster",
+      "title": "FOREVER",
+      "release_date": "2024-07-01",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_0c8e7739-6164-4f6e-b2be-ae6d4d5c7489",
+      "spotify_artist_id": "mock_artist_babymonster",
+      "artist_name": "Babymonster",
+      "title": "BATTER UP (JP Ver.)",
+      "release_date": "2024-08-16",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_1c32aabf-e8f7-430c-b515-ca6580125577",
+      "spotify_artist_id": "mock_artist_babymonster",
+      "artist_name": "Babymonster",
+      "title": "DRIP",
+      "release_date": "2024-11-01",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_6379d6df-2fd5-4ebb-a70a-b50c2d6c5ab8",
+      "spotify_artist_id": "mock_artist_babymonster",
+      "artist_name": "Babymonster",
+      "title": "2025 BABYMONSTER 1st WORLD TOUR <HELLO MONSTERS> IN JAPAN ~2025.04.13 K-ARENA YOKOHAMA~",
+      "release_date": "2025-09-14",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_94171711-13ce-4edc-bc18-b4d5103652c0",
+      "spotify_artist_id": "mock_artist_babymonster",
+      "artist_name": "Babymonster",
+      "title": "Stuck in the Middle",
+      "release_date": "2024-02-01",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Kiss of Life": [
+    {
+      "spotify_album_id": "mock_album_209c6b7c-ce01-43cc-8182-dfac8509f9ae",
+      "spotify_artist_id": "mock_artist_kiss_of_life",
+      "artist_name": "Kiss of Life",
+      "title": "Sticky",
+      "release_date": "2024-07-01",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_23e58609-f5f9-4050-93d2-cc3b7e7d2268",
+      "spotify_artist_id": "mock_artist_kiss_of_life",
+      "artist_name": "Kiss of Life",
+      "title": "Midas Touch",
+      "release_date": "2024-04-03",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_676688b0-5141-468d-a4d1-5b4364670d26",
+      "spotify_artist_id": "mock_artist_kiss_of_life",
+      "artist_name": "Kiss of Life",
+      "title": "R.E.M",
+      "release_date": "2024-10-04",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_a9ff0080-f75f-44b3-b66d-eff436e087c1",
+      "spotify_artist_id": "mock_artist_kiss_of_life",
+      "artist_name": "Kiss of Life",
+      "title": "SUPERPOWER",
+      "release_date": "2024-07-23",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_df66d71a-4fa9-40fc-add9-35f3ba00799e",
+      "spotify_artist_id": "mock_artist_kiss_of_life",
+      "artist_name": "Kiss of Life",
+      "title": "송스틸러 - Sixth Sense",
+      "release_date": "2024-05-25",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "TWS": [
+    {
+      "spotify_album_id": "mock_album_03f51440-c550-4db1-b752-71b43d24fa1d",
+      "spotify_artist_id": "mock_artist_tws",
+      "artist_name": "TWS",
+      "title": "Uptown Girl",
+      "release_date": "2024-06-28",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_1a51b0e4-21f1-4980-95f3-7f64f99618fd",
+      "spotify_artist_id": "mock_artist_tws",
+      "artist_name": "TWS",
+      "title": "hey! hey!",
+      "release_date": "2024-06-05",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_9baf09cd-2a6d-4339-adb2-807498d6909a",
+      "spotify_artist_id": "mock_artist_tws",
+      "artist_name": "TWS",
+      "title": "Last Bell",
+      "release_date": "2024-11-25",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_fe4df9dd-09ab-407d-9d50-3656a9441294",
+      "spotify_artist_id": "mock_artist_tws",
+      "artist_name": "TWS",
+      "title": "Oh Mymy : 7s",
+      "release_date": "2024-01-02",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "English Teacher": [
+    {
+      "spotify_album_id": "mock_album_6a6b9cb9-92c1-45ff-b4ed-940887fc04ca",
+      "spotify_artist_id": "mock_artist_english_teacher",
+      "artist_name": "English Teacher",
+      "title": "This Could Be Texas",
+      "release_date": "2024-04-12",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_7b2fb859-9182-48bc-b8f3-b9157b6fa2d6",
+      "spotify_artist_id": "mock_artist_english_teacher",
+      "artist_name": "English Teacher",
+      "title": "The Treacle Trap Door",
+      "release_date": "2020-06-17",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_b14f5c9f-ed63-49b4-a962-786ff755fea2",
+      "spotify_artist_id": "mock_artist_english_teacher",
+      "artist_name": "English Teacher",
+      "title": "This Could Be a Remix Album",
+      "release_date": "2025-10-10",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_be8651de-6356-47f9-a275-578460b3e77e",
+      "spotify_artist_id": "mock_artist_english_teacher",
+      "artist_name": "English Teacher",
+      "title": "Live at the Brudenell",
+      "release_date": "2024-04-20",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_bfe72017-6b18-4abf-b130-1a9378bddf32",
+      "spotify_artist_id": "mock_artist_english_teacher",
+      "artist_name": "English Teacher",
+      "title": "Valentine (demo)",
+      "release_date": "2018-04-10",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "CHINCHILLA": [
+    {
+      "spotify_album_id": "mock_album_0534279a-42b4-370b-a09f-bfdc527c59f5",
+      "spotify_artist_id": "mock_artist_chinchilla",
+      "artist_name": "CHINCHILLA",
+      "title": "Madness",
+      "release_date": "2000-03-06",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_2ddbccbe-92c5-3129-99a4-1bedc153b1d5",
+      "spotify_artist_id": "mock_artist_chinchilla",
+      "artist_name": "CHINCHILLA",
+      "title": "Horrorscope",
+      "release_date": "1997",
+      "release_date_precision": "year",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_da2ce760-d0c7-3b86-b3a6-0f8f27c061ba",
+      "spotify_artist_id": "mock_artist_chinchilla",
+      "artist_name": "CHINCHILLA",
+      "title": "Take No Prisoners",
+      "release_date": "2004-10-25",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_e3217fb9-9858-3f03-bb73-a56c56a8d287",
+      "spotify_artist_id": "mock_artist_chinchilla",
+      "artist_name": "CHINCHILLA",
+      "title": "Madtropolis",
+      "release_date": "2003-05-05",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_e4662ff1-5ffe-456e-ae59-f3450058a579",
+      "spotify_artist_id": "mock_artist_chinchilla",
+      "artist_name": "CHINCHILLA",
+      "title": "The Last Millennium",
+      "release_date": "2002-03-25",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Brigette Calls Me Baby": [
+    {
+      "spotify_album_id": "mock_album_brigette_calls_me_baby_fallback",
+      "spotify_artist_id": "mock_artist_brigette_calls_me_baby",
+      "artist_name": "Brigette Calls Me Baby",
+      "title": "The Best of Brigette Calls Me Baby",
+      "release_date": "2024-01-01",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Trout": [
+    {
+      "spotify_album_id": "mock_album_073d0196-0333-4d88-a80a-1514c023f837",
+      "spotify_artist_id": "mock_artist_trout",
+      "artist_name": "Trout",
+      "title": "The Blues Came Callin'",
+      "release_date": "2014-06-02",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_36ee87d5-9dde-41e3-9c90-70bc8b5f5b5c",
+      "spotify_artist_id": "mock_artist_trout",
+      "artist_name": "Trout",
+      "title": "Battle Scars",
+      "release_date": "2015-10-23",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_55311726-8aa6-46d5-a687-f43338d80dcc",
+      "spotify_artist_id": "mock_artist_trout",
+      "artist_name": "Trout",
+      "title": "Luther's Blues: A Tribute to Luther Allison",
+      "release_date": "2010-06-10",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_6214bda0-78e9-4f2e-8679-38d97d5a0672",
+      "spotify_artist_id": "mock_artist_trout",
+      "artist_name": "Trout",
+      "title": "Blues for the Modern Daze",
+      "release_date": "2012-04-24",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_6fb91ab4-1e48-36fa-b97d-f9f1c408a82f",
+      "spotify_artist_id": "mock_artist_trout",
+      "artist_name": "Trout",
+      "title": "Full Circle",
+      "release_date": "2006-06-26",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Fcukers": [
+    {
+      "spotify_album_id": "mock_album_fcukers_fallback",
+      "spotify_artist_id": "mock_artist_fcukers",
+      "artist_name": "Fcukers",
+      "title": "The Best of Fcukers",
+      "release_date": "2024-01-01",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Snow Strippers": [
+    {
+      "spotify_album_id": "mock_album_46a6e4ce-e3bc-4f65-82ee-ec5c84e51616",
+      "spotify_artist_id": "mock_artist_snow_strippers",
+      "artist_name": "Snow Strippers",
+      "title": "April Mixtape",
+      "release_date": "2022-04-20",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_568a9ece-9067-425a-9b99-8e7981cb44b7",
+      "spotify_artist_id": "mock_artist_snow_strippers",
+      "artist_name": "Snow Strippers",
+      "title": "April Mixtape 2",
+      "release_date": "2022-09-15",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_5a9f27ab-d977-48c6-bfe1-413e63c975ea",
+      "spotify_artist_id": "mock_artist_snow_strippers",
+      "artist_name": "Snow Strippers",
+      "title": "The Snow Strippers",
+      "release_date": "2022-06-30",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_62650b6b-a012-4f29-a356-a66b577844c9",
+      "spotify_artist_id": "mock_artist_snow_strippers",
+      "artist_name": "Snow Strippers",
+      "title": "April Mixtape 3",
+      "release_date": "2023-05-02",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_90965816-3e7f-462a-a89c-25b2cf29304d",
+      "spotify_artist_id": "mock_artist_snow_strippers",
+      "artist_name": "Snow Strippers",
+      "title": "Fast & Slow, Vol. 1",
+      "release_date": "2022-10-02",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Rachel Chinouriri": [
+    {
+      "spotify_album_id": "mock_album_3351b172-7d33-438e-a314-5e6dbf0fce29",
+      "spotify_artist_id": "mock_artist_rachel_chinouriri",
+      "artist_name": "Rachel Chinouriri",
+      "title": "So My Darling",
+      "release_date": "2018-07-09",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_9c0498ff-d6b5-4eaf-90c8-88649d721e20",
+      "spotify_artist_id": "mock_artist_rachel_chinouriri",
+      "artist_name": "Rachel Chinouriri",
+      "title": "What a Devastating Turn of Events",
+      "release_date": "2024-05-03",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_a7c15c16-bed5-4aa2-9d29-a9e257be0495",
+      "spotify_artist_id": "mock_artist_rachel_chinouriri",
+      "artist_name": "Rachel Chinouriri",
+      "title": "What Have I Ever Done",
+      "release_date": "2018-06-20",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_b40f78c9-5529-4cc9-bdb8-656dd96a3fa9",
+      "spotify_artist_id": "mock_artist_rachel_chinouriri",
+      "artist_name": "Rachel Chinouriri",
+      "title": "Riptide",
+      "release_date": "2019-02-04",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_e41ca863-37ad-45f1-96d0-55c8bebfbb9b",
+      "spotify_artist_id": "mock_artist_rachel_chinouriri",
+      "artist_name": "Rachel Chinouriri",
+      "title": "Adrenaline",
+      "release_date": "2019-04-05",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Barry Can't Swim": [
+    {
+      "spotify_album_id": "mock_album_0761b8f9-f975-4865-a995-a35204d1ab74",
+      "spotify_artist_id": "mock_artist_barry_can't_swim",
+      "artist_name": "Barry Can't Swim",
+      "title": "Loner",
+      "release_date": "2025-07-11",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_2f092bbc-cf50-4915-a7e3-096c920038f1",
+      "spotify_artist_id": "mock_artist_barry_can't_swim",
+      "artist_name": "Barry Can't Swim",
+      "title": "LateNightTales",
+      "release_date": "2026-03-06",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_4c855b15-d23e-4ee8-8627-cb93df3d70b0",
+      "spotify_artist_id": "mock_artist_barry_can't_swim",
+      "artist_name": "Barry Can't Swim",
+      "title": "Some Day I Will",
+      "release_date": "2020-11-13",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_65c9da0c-fbc2-4df7-b69d-970750f599e8",
+      "spotify_artist_id": "mock_artist_barry_can't_swim",
+      "artist_name": "Barry Can't Swim",
+      "title": "LateNightTales: Barry Can't Swim",
+      "release_date": "2026-03-06",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_672a4973-eaf5-4308-8261-ffad7a5a5887",
+      "spotify_artist_id": "mock_artist_barry_can't_swim",
+      "artist_name": "Barry Can't Swim",
+      "title": "When Will We Land?",
+      "release_date": "2023-10-20",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Lastlings": [
+    {
+      "spotify_album_id": "mock_album_0a29ec7f-d670-41a1-9fa5-b1cf68e8f16d",
+      "spotify_artist_id": "mock_artist_lastlings",
+      "artist_name": "Lastlings",
+      "title": "UNREALITY",
+      "release_date": "2016-01-20",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_10cb6ce1-cb27-4adf-8a5b-f490365e8145",
+      "spotify_artist_id": "mock_artist_lastlings",
+      "artist_name": "Lastlings",
+      "title": "Perfect World",
+      "release_date": "2023-06-23",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_354d2cd3-b494-42d4-b578-3ff226fc5a65",
+      "spotify_artist_id": "mock_artist_lastlings",
+      "artist_name": "Lastlings",
+      "title": "Wavelength",
+      "release_date": "2015-08-26",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_8dab2198-b32d-46ae-9675-5308b669355a",
+      "spotify_artist_id": "mock_artist_lastlings",
+      "artist_name": "Lastlings",
+      "title": "Love Like This",
+      "release_date": "2016-09-12",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_9770a46f-411c-472c-9d6e-333a7af5261c",
+      "spotify_artist_id": "mock_artist_lastlings",
+      "artist_name": "Lastlings",
+      "title": "Verona",
+      "release_date": "2015-07-09",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Kenya Grace": [
+    {
+      "spotify_album_id": "mock_album_05f11234-67fb-46ee-899a-42a777d22b71",
+      "spotify_artist_id": "mock_artist_kenya_grace",
+      "artist_name": "Kenya Grace",
+      "title": "I Wish I Didn't Call",
+      "release_date": "2022-06-25",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_0dab5e41-fee9-4a1d-861d-8ef085203690",
+      "spotify_artist_id": "mock_artist_kenya_grace",
+      "artist_name": "Kenya Grace",
+      "title": "Oranges",
+      "release_date": "2022-09-22",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_1bdc4863-a1ae-4662-adbf-fd7981666dd8",
+      "spotify_artist_id": "mock_artist_kenya_grace",
+      "artist_name": "Kenya Grace",
+      "title": "Someone Else",
+      "release_date": "2022-07-12",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_3473c8fc-0c9a-43bd-91d4-6818ad0fe2c4",
+      "spotify_artist_id": "mock_artist_kenya_grace",
+      "artist_name": "Kenya Grace",
+      "title": "The After Taste",
+      "release_date": "2024-03-22",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_45eee5ef-edf6-44e6-9a13-c76f7c74867f",
+      "spotify_artist_id": "mock_artist_kenya_grace",
+      "artist_name": "Kenya Grace",
+      "title": "Only in My Mind",
+      "release_date": "2023-10-06",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Artemas": [
+    {
+      "spotify_album_id": "mock_album_artemas_fallback",
+      "spotify_artist_id": "mock_artist_artemas",
+      "artist_name": "Artemas",
+      "title": "The Best of Artemas",
+      "release_date": "2024-01-01",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Dasha": [
+    {
+      "spotify_album_id": "mock_album_2fbc2e58-6659-48c7-8e25-edd5fbaab19f",
+      "spotify_artist_id": "mock_artist_dasha",
+      "artist_name": "Dasha",
+      "title": "21st Birthday",
+      "release_date": "2021-02-26",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_5255199d-d4b3-40ab-8588-ae0986d1f9c8",
+      "spotify_artist_id": "mock_artist_dasha",
+      "artist_name": "Dasha",
+      "title": "None of My Business (Acoustic)",
+      "release_date": "2020-11-06",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_5b6cdf00-def6-4954-9322-1e9fb86707ed",
+      "spotify_artist_id": "mock_artist_dasha",
+      "artist_name": "Dasha",
+      "title": "What Happens Now?",
+      "release_date": "2024-02-16",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_79273915-d814-45db-b215-7c61465592a8",
+      "spotify_artist_id": "mock_artist_dasha",
+      "artist_name": "Dasha",
+      "title": "Better Than She Did",
+      "release_date": "2020-11-20",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_955dd99b-2336-41ce-85ae-2cc8f2f4f64d",
+      "spotify_artist_id": "mock_artist_dasha",
+      "artist_name": "Dasha",
+      "title": "Don't Mean A Thing",
+      "release_date": "2020-04-24",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Ella Langley": [
+    {
+      "spotify_album_id": "mock_album_ella_langley_fallback",
+      "spotify_artist_id": "mock_artist_ella_langley",
+      "artist_name": "Ella Langley",
+      "title": "The Best of Ella Langley",
+      "release_date": "2024-01-01",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "41": [
+    {
+      "spotify_album_id": "mock_album_256762ad-6a8c-40b4-969e-c7721a3bf794",
+      "spotify_artist_id": "mock_artist_41",
+      "artist_name": "41",
+      "title": "Heaven :x: Hell",
+      "release_date": "2024-03-29",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_27de34e7-47e1-4b63-971f-c9f4ac07bd56",
+      "spotify_artist_id": "mock_artist_41",
+      "artist_name": "41",
+      "title": "13 Voices",
+      "release_date": "2016-10-07",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_3ebc1782-e140-3a1a-971e-17826ddf462d",
+      "spotify_artist_id": "mock_artist_41",
+      "artist_name": "41",
+      "title": "Does This Look Infected?",
+      "release_date": "2002-11-25",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_4ba9165f-c71e-4147-81c3-443782a30d41",
+      "spotify_artist_id": "mock_artist_41",
+      "artist_name": "41",
+      "title": "Sake Bombs and Happy Endings: Live in Tokyo",
+      "release_date": "2003",
+      "release_date_precision": "year",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_54a346b3-6851-481f-8f25-96c1895a9d6a",
+      "spotify_artist_id": "mock_artist_41",
+      "artist_name": "41",
+      "title": "Order in Decline",
+      "release_date": "2019-07-19",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "310babii": [
+    {
+      "spotify_album_id": "mock_album_0b95d571-38c5-49a2-8d32-502ac63ecc63",
+      "spotify_artist_id": "mock_artist_310babii",
+      "artist_name": "310babii",
+      "title": "nights and weekends",
+      "release_date": "2024-02-23",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_2bb2f921-1df6-4b6a-9e8e-b32e42b64094",
+      "spotify_artist_id": "mock_artist_310babii",
+      "artist_name": "310babii",
+      "title": "webkam",
+      "release_date": "2025-09-05",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_4656bb40-5f3c-4783-b216-1682da5d487f",
+      "spotify_artist_id": "mock_artist_310babii",
+      "artist_name": "310babii",
+      "title": "Soak City",
+      "release_date": "2023-09-08",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_507d0236-3e53-4933-a1e3-be405d26084f",
+      "spotify_artist_id": "mock_artist_310babii",
+      "artist_name": "310babii",
+      "title": "Soak City Remixes",
+      "release_date": "2024-01-26",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_53ee580b-3d41-49dc-a489-9a584280af38",
+      "spotify_artist_id": "mock_artist_310babii",
+      "artist_name": "310babii",
+      "title": "Walk",
+      "release_date": "2023-10-27",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Richy Mitch and the Coal Miners": [
+    {
+      "spotify_album_id": "mock_album_18242e4d-8393-445c-b864-d588ff6bd12c",
+      "spotify_artist_id": "mock_artist_richy_mitch_and_the_coal_miners",
+      "artist_name": "Richy Mitch and the Coal Miners",
+      "title": "Subliming",
+      "release_date": "2019-06-20",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_2f77cae8-ef9b-401f-aa1a-257235300ca5",
+      "spotify_artist_id": "mock_artist_richy_mitch_and_the_coal_miners",
+      "artist_name": "Richy Mitch and the Coal Miners",
+      "title": "RMCM",
+      "release_date": "2017-05-17",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_403c876d-49cd-44cd-b3e4-1af21b75c91f",
+      "spotify_artist_id": "mock_artist_richy_mitch_and_the_coal_miners",
+      "artist_name": "Richy Mitch and the Coal Miners",
+      "title": "Jetlag",
+      "release_date": "2018-08-05",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_5be18845-9589-49eb-a6fb-b87ec561af8f",
+      "spotify_artist_id": "mock_artist_richy_mitch_and_the_coal_miners",
+      "artist_name": "Richy Mitch and the Coal Miners",
+      "title": "album 45 demos",
+      "release_date": "2022-01-03",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_682bcc27-24bd-4d73-810c-c100e5dea225",
+      "spotify_artist_id": "mock_artist_richy_mitch_and_the_coal_miners",
+      "artist_name": "Richy Mitch and the Coal Miners",
+      "title": "RMCM",
+      "release_date": "2017-05-17",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Good Neighbours": [
+    {
+      "spotify_album_id": "mock_album_11dd4482-7913-4729-8979-0d115a82b746",
+      "spotify_artist_id": "mock_artist_good_neighbours",
+      "artist_name": "Good Neighbours",
+      "title": "Starry Eyed",
+      "release_date": "2025-03-21",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_17e4b1ce-a66a-4196-9258-a38b3701df34",
+      "spotify_artist_id": "mock_artist_good_neighbours",
+      "artist_name": "Good Neighbours",
+      "title": "Blue Sky Mentality",
+      "release_date": "2025-09-26",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_6a0af2f9-0a87-484d-bb3b-d792d3be5fc9",
+      "spotify_artist_id": "mock_artist_good_neighbours",
+      "artist_name": "Good Neighbours",
+      "title": "Keep It Up",
+      "release_date": "2024-04-05",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_75c1a1dc-f8bb-459c-a5df-1efd2842fe38",
+      "spotify_artist_id": "mock_artist_good_neighbours",
+      "artist_name": "Good Neighbours",
+      "title": "Ripple",
+      "release_date": "2025-01-24",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_79a208d9-c3cf-4ca1-892d-3460af11a02b",
+      "spotify_artist_id": "mock_artist_good_neighbours",
+      "artist_name": "Good Neighbours",
+      "title": "Home",
+      "release_date": "2024-01-17",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Wasia Project": [
+    {
+      "spotify_album_id": "mock_album_0eb93fe2-830c-46f6-92fe-935ae178b88a",
+      "spotify_artist_id": "mock_artist_wasia_project",
+      "artist_name": "Wasia Project",
+      "title": "Remember When",
+      "release_date": "2023-11-14",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_20f2e58c-57b5-4942-90de-0ee3b3812d86",
+      "spotify_artist_id": "mock_artist_wasia_project",
+      "artist_name": "Wasia Project",
+      "title": "My Lover Is Sleeping",
+      "release_date": "2023-05-18",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_37701d54-53d1-4777-8689-3270df229893",
+      "spotify_artist_id": "mock_artist_wasia_project",
+      "artist_name": "Wasia Project",
+      "title": "Misfit Biscuit",
+      "release_date": "2020-11-13",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_5e5c1e08-1773-410d-b99c-71dcbee56e2c",
+      "spotify_artist_id": "mock_artist_wasia_project",
+      "artist_name": "Wasia Project",
+      "title": "Burning Eyes R Calling",
+      "release_date": "2020-04-28",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_7c36666a-9969-4da0-bbd0-fc1127bc8ea1",
+      "spotify_artist_id": "mock_artist_wasia_project",
+      "artist_name": "Wasia Project",
+      "title": "Petals on the Moon",
+      "release_date": "2023-02-10",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "The Red Clay Strays": [
+    {
+      "spotify_album_id": "mock_album_181df1c6-a47f-48c5-a065-5c0932151aab",
+      "spotify_artist_id": "mock_artist_the_red_clay_strays",
+      "artist_name": "The Red Clay Strays",
+      "title": "Will the Lord Remember Me",
+      "release_date": "2020-04-25",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_3b28aac4-d294-4e37-9b98-e462b211660a",
+      "spotify_artist_id": "mock_artist_the_red_clay_strays",
+      "artist_name": "The Red Clay Strays",
+      "title": "Momma Loves Me",
+      "release_date": "2025-09-05",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_478e2b1a-e9c4-4e01-8f58-43a496b9f13f",
+      "spotify_artist_id": "mock_artist_the_red_clay_strays",
+      "artist_name": "The Red Clay Strays",
+      "title": "Good Godly Woman",
+      "release_date": "2019-11-01",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_83513052-d6b0-431a-bb4d-588d406e0c68",
+      "spotify_artist_id": "mock_artist_the_red_clay_strays",
+      "artist_name": "The Red Clay Strays",
+      "title": "Moment of Truth",
+      "release_date": "2022-04-29",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_841115e4-05f4-477b-a3f4-f99ba535965a",
+      "spotify_artist_id": "mock_artist_the_red_clay_strays",
+      "artist_name": "The Red Clay Strays",
+      "title": "No Way to Know",
+      "release_date": "2020-01-10",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Megan Moroney": [
+    {
+      "spotify_album_id": "mock_album_2df32ebb-4fa5-479d-97c4-6a3acb9bd424",
+      "spotify_artist_id": "mock_artist_megan_moroney",
+      "artist_name": "Megan Moroney",
+      "title": "Lucky",
+      "release_date": "2023-05-05",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_62a602e3-ddee-4bbe-8d3c-c27ff258acad",
+      "spotify_artist_id": "mock_artist_megan_moroney",
+      "artist_name": "Megan Moroney",
+      "title": "Cloud 9",
+      "release_date": "2026-02-20",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_63cae8c5-6ed4-4270-aa3a-b242b3ae813f",
+      "spotify_artist_id": "mock_artist_megan_moroney",
+      "artist_name": "Megan Moroney",
+      "title": "I Love Me",
+      "release_date": "2022-07-15",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_86b95e85-1bef-4341-8c86-8862e3098867",
+      "spotify_artist_id": "mock_artist_megan_moroney",
+      "artist_name": "Megan Moroney",
+      "title": "Hair Salon",
+      "release_date": "2022-04-22",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_9f47a249-1a2e-4cd6-8fd6-e96b1b043cbe",
+      "spotify_artist_id": "mock_artist_megan_moroney",
+      "artist_name": "Megan Moroney",
+      "title": "Fix You Too",
+      "release_date": "2022-06-03",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Tucker Wetmore": [
+    {
+      "spotify_album_id": "mock_album_11979d07-8ade-46f8-b0c7-af5c2835772b",
+      "spotify_artist_id": "mock_artist_tucker_wetmore",
+      "artist_name": "Tucker Wetmore",
+      "title": "Wind Up Missin' You",
+      "release_date": "2024-03-29",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_427f66c5-5185-40d4-8040-fb8577cc810f",
+      "spotify_artist_id": "mock_artist_tucker_wetmore",
+      "artist_name": "Tucker Wetmore",
+      "title": "Silverado Blue",
+      "release_date": "2024-09-13",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_4b25ce0e-a931-4c38-bca2-194e12503da7",
+      "spotify_artist_id": "mock_artist_tucker_wetmore",
+      "artist_name": "Tucker Wetmore",
+      "title": "Proving Me Right",
+      "release_date": "2025-12-05",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_51f5b598-a5f0-4c32-a478-438d055bfee5",
+      "spotify_artist_id": "mock_artist_tucker_wetmore",
+      "artist_name": "Tucker Wetmore",
+      "title": "What Not To",
+      "release_date": "2025-04-25",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_6ed4af6d-2af2-46a9-b1f2-7bda69f0c67e",
+      "spotify_artist_id": "mock_artist_tucker_wetmore",
+      "artist_name": "Tucker Wetmore",
+      "title": "3,2,1",
+      "release_date": "2025-02-21",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Wyatt Flores": [
+    {
+      "spotify_album_id": "mock_album_40819b35-3a37-42b1-b2a7-dde959e82445",
+      "spotify_artist_id": "mock_artist_wyatt_flores",
+      "artist_name": "Wyatt Flores",
+      "title": "Live at Cain's Ballroom",
+      "release_date": "2025-02-14",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_72482f27-b59a-4ef0-a681-248576df0206",
+      "spotify_artist_id": "mock_artist_wyatt_flores",
+      "artist_name": "Wyatt Flores",
+      "title": "Way Back Home",
+      "release_date": "2022-10-14",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_73c26ad6-b1dd-41d3-a9d0-2e5f1c5323c0",
+      "spotify_artist_id": "mock_artist_wyatt_flores",
+      "artist_name": "Wyatt Flores",
+      "title": "Please Don't Go",
+      "release_date": "2022-07-15",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_a090ac12-f614-450f-8032-9a69d94143e9",
+      "spotify_artist_id": "mock_artist_wyatt_flores",
+      "artist_name": "Wyatt Flores",
+      "title": "Welcome to the Plains",
+      "release_date": "2024-10-18",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_e02b0c03-f9ea-422f-a520-a92267a29f1d",
+      "spotify_artist_id": "mock_artist_wyatt_flores",
+      "artist_name": "Wyatt Flores",
+      "title": "Burning Bridges",
+      "release_date": "2022-12-02",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Tanner Adell": [
+    {
+      "spotify_album_id": "mock_album_05e78562-e044-45a5-805d-a4dd69911401",
+      "spotify_artist_id": "mock_artist_tanner_adell",
+      "artist_name": "Tanner Adell",
+      "title": "Snakeskin",
+      "release_date": "2025-06-13",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_074f1fbc-1ca4-44a5-81a7-7a682755f7b8",
+      "spotify_artist_id": "mock_artist_tanner_adell",
+      "artist_name": "Tanner Adell",
+      "title": "Buckle Bunny",
+      "release_date": "2023-09-15",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_16a6c0c7-e396-4729-bc5d-b80729c0fc45",
+      "spotify_artist_id": "mock_artist_tanner_adell",
+      "artist_name": "Tanner Adell",
+      "title": "Whiskey Blues",
+      "release_date": "2024-04-12",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_55a42516-6445-4bfd-b040-461e9a1f8530",
+      "spotify_artist_id": "mock_artist_tanner_adell",
+      "artist_name": "Tanner Adell",
+      "title": "Tan Lines",
+      "release_date": "2022-09-02",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_76c68903-9b50-4c9c-9811-a74e58e469f3",
+      "spotify_artist_id": "mock_artist_tanner_adell",
+      "artist_name": "Tanner Adell",
+      "title": "Silverado",
+      "release_date": "2024-09-04",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Kadhja Bonet": [
+    {
+      "spotify_album_id": "mock_album_0aa08ff6-d540-4fd6-b4ea-3c7f3cad5561",
+      "spotify_artist_id": "mock_artist_kadhja_bonet",
+      "artist_name": "Kadhja Bonet",
+      "title": "Yesterday",
+      "release_date": "2015-09-13",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_63766f65-2033-45af-91ea-f2b1c069a7d2",
+      "spotify_artist_id": "mock_artist_kadhja_bonet",
+      "artist_name": "Kadhja Bonet",
+      "title": "Remember the Rain",
+      "release_date": "2015-07-21",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_6b1d4232-f45e-412e-9681-9babf7aaaa5d",
+      "spotify_artist_id": "mock_artist_kadhja_bonet",
+      "artist_name": "Kadhja Bonet",
+      "title": "Childqueen",
+      "release_date": "2018-06-08",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_6eac2c75-2156-4acc-84e2-8cb9c26d1ff2",
+      "spotify_artist_id": "mock_artist_kadhja_bonet",
+      "artist_name": "Kadhja Bonet",
+      "title": "Fortune / I Wanna Be a Free Girl",
+      "release_date": "2017-04-22",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_75078978-b4ea-45e3-8d14-50443501dc3e",
+      "spotify_artist_id": "mock_artist_kadhja_bonet",
+      "artist_name": "Kadhja Bonet",
+      "title": "On Sight",
+      "release_date": "2019-09-20",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Jayahadadream": [
+    {
+      "spotify_album_id": "mock_album_241ca296-f1b6-4e6c-a8bb-752f52b540d7",
+      "spotify_artist_id": "mock_artist_jayahadadream",
+      "artist_name": "Jayahadadream",
+      "title": "Too Many",
+      "release_date": "2021-03-15",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_25329fb6-35d8-49bd-b681-c69a8d989e6a",
+      "spotify_artist_id": "mock_artist_jayahadadream",
+      "artist_name": "Jayahadadream",
+      "title": "Selfish Games",
+      "release_date": "2023-05-26",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_2b119e9a-1eb6-459b-b55d-7333a8cb58a4",
+      "spotify_artist_id": "mock_artist_jayahadadream",
+      "artist_name": "Jayahadadream",
+      "title": "Cammy Riddim",
+      "release_date": "2022-08-08",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_47f5c3bd-ae8a-4c25-b9bf-8efb07cb5f6f",
+      "spotify_artist_id": "mock_artist_jayahadadream",
+      "artist_name": "Jayahadadream",
+      "title": "Real Love",
+      "release_date": "2019-10-04",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_49689512-1f7c-4961-88eb-d4903830c535",
+      "spotify_artist_id": "mock_artist_jayahadadream",
+      "artist_name": "Jayahadadream",
+      "title": "Happiness From Agony",
+      "release_date": "2025-10-24",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Mon Rovia": [
+    {
+      "spotify_album_id": "mock_album_1a36adc4-3b80-4dc6-8a9e-110ca38e320a",
+      "spotify_artist_id": "mock_artist_mon_rovia",
+      "artist_name": "Mon Rovia",
+      "title": "The Moral Failings and Desires of One Formerly Known as Mon Rovîa",
+      "release_date": "2019-05-24",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_b317fe27-f11b-4a15-b9fa-40c26e0888e5",
+      "spotify_artist_id": "mock_artist_mon_rovia",
+      "artist_name": "Mon Rovia",
+      "title": "Bloodline",
+      "release_date": "2026-01-09",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Konyikeh": [
+    {
+      "spotify_album_id": "mock_album_64bafc5a-124d-4bca-8eaf-1e1709ba6dd0",
+      "spotify_artist_id": "mock_artist_konyikeh",
+      "artist_name": "Konyikeh",
+      "title": "Cinere",
+      "release_date": "2026-05-20",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "es.cher": [
+    {
+      "spotify_album_id": "mock_album_2f7cbb67-1d3a-4787-93b0-d9f25c9da6b9",
+      "spotify_artist_id": "mock_artist_es.cher",
+      "artist_name": "es.cher",
+      "title": "Scattered sunlight, broken glass",
+      "release_date": "2025-09-26",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_71acb4c6-6dfd-4d88-b4a0-239393a3d00e",
+      "spotify_artist_id": "mock_artist_es.cher",
+      "artist_name": "es.cher",
+      "title": "mmry prblms",
+      "release_date": "2024-04-02",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_7cb64910-2a45-403b-a17d-b5019e57b116",
+      "spotify_artist_id": "mock_artist_es.cher",
+      "artist_name": "es.cher",
+      "title": "____, close to you.",
+      "release_date": "2025-07-16",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_96bee12e-4da3-4ecd-83e9-b137c4f44721",
+      "spotify_artist_id": "mock_artist_es.cher",
+      "artist_name": "es.cher",
+      "title": "genr.es (let go / what breaks-1)",
+      "release_date": "2023-11-15",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_9e49d9a8-528b-48a4-bd8d-d5dd926a91e3",
+      "spotify_artist_id": "mock_artist_es.cher",
+      "artist_name": "es.cher",
+      "title": "if,,",
+      "release_date": "2025-06-10",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Joy Anonymous": [
+    {
+      "spotify_album_id": "mock_album_1f165fe5-c3c7-4892-9549-20c3f94dd8ca",
+      "spotify_artist_id": "mock_artist_joy_anonymous",
+      "artist_name": "Joy Anonymous",
+      "title": "JOY (Push the Button)",
+      "release_date": "2023-12-22",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_2685540a-3d7f-4039-8c2c-cca5f270c23e",
+      "spotify_artist_id": "mock_artist_joy_anonymous",
+      "artist_name": "Joy Anonymous",
+      "title": "Cult Classics",
+      "release_date": "2023-11-03",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_50b19a9e-87d7-47ce-a876-69487249b3f8",
+      "spotify_artist_id": "mock_artist_joy_anonymous",
+      "artist_name": "Joy Anonymous",
+      "title": "JOY (God Only Knows)",
+      "release_date": "2022-12-23",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_72f33813-c727-492e-b2d8-d605de2250f7",
+      "spotify_artist_id": "mock_artist_joy_anonymous",
+      "artist_name": "Joy Anonymous",
+      "title": "JOY (By My Side)",
+      "release_date": "2024-09-17",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_a7ec07da-4fc3-4e34-9b87-5438d3c79eca",
+      "spotify_artist_id": "mock_artist_joy_anonymous",
+      "artist_name": "Joy Anonymous",
+      "title": "JOY (I Did You Wrong)",
+      "release_date": "2023-09-29",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Overmono": [
+    {
+      "spotify_album_id": "mock_album_c17165c4-0a3a-4a46-8680-279d16e0609b",
+      "spotify_artist_id": "mock_artist_overmono",
+      "artist_name": "Overmono",
+      "title": "Pure Devotion",
+      "release_date": "2026-08-07",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_ed11d125-88e2-45ce-a540-eb2edc0eada6",
+      "spotify_artist_id": "mock_artist_overmono",
+      "artist_name": "Overmono",
+      "title": "Good Lies",
+      "release_date": "2023-05-12",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_f7787194-8340-4762-b3c9-1033c27ed2b8",
+      "spotify_artist_id": "mock_artist_overmono",
+      "artist_name": "Overmono",
+      "title": "fabric presents Overmono",
+      "release_date": "2021-07-16",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Nia Archives": [
+    {
+      "spotify_album_id": "mock_album_02d21f9c-8cbe-4f7d-8194-b4b903ba23a9",
+      "spotify_artist_id": "mock_artist_nia_archives",
+      "artist_name": "Nia Archives",
+      "title": "Emotional Junglist",
+      "release_date": "2026-07-24",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_3d46f921-7b68-420e-bc3b-17c36fadb1e6",
+      "spotify_artist_id": "mock_artist_nia_archives",
+      "artist_name": "Nia Archives",
+      "title": "Silence Is Loud",
+      "release_date": "2024-04-12",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_a01c9789-a773-4093-94d4-4f8443c8c16b",
+      "spotify_artist_id": "mock_artist_nia_archives",
+      "artist_name": "Nia Archives",
+      "title": "Sober Feels",
+      "release_date": "2020-06-05",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_a80f4b79-a3c8-476a-88d9-42e3951052f0",
+      "spotify_artist_id": "mock_artist_nia_archives",
+      "artist_name": "Nia Archives",
+      "title": "Don’t Kid Urself",
+      "release_date": "2020-07-10",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_a862ce23-f929-491d-a573-5de4e89db743",
+      "spotify_artist_id": "mock_artist_nia_archives",
+      "artist_name": "Nia Archives",
+      "title": "Headz Gone West",
+      "release_date": "2021-04-07",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Skin on Skin": [
+    {
+      "spotify_album_id": "mock_album_4a30e1c7-8029-47c8-90bc-669aee0f1ca3",
+      "spotify_artist_id": "mock_artist_skin_on_skin",
+      "artist_name": "Skin on Skin",
+      "title": "Save Me",
+      "release_date": "2020-09-18",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_94e92d5c-c86f-4234-a3f7-57dc364adb2a",
+      "spotify_artist_id": "mock_artist_skin_on_skin",
+      "artist_name": "Skin on Skin",
+      "title": "For Tha Shot",
+      "release_date": "2022-07-07",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_ad28bb48-80a7-4e38-b3bc-3c983414bebb",
+      "spotify_artist_id": "mock_artist_skin_on_skin",
+      "artist_name": "Skin on Skin",
+      "title": "Got Me Fucked Up",
+      "release_date": "2019-10-11",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_b2d0981e-a695-4bb4-9152-32eab5ca58d5",
+      "spotify_artist_id": "mock_artist_skin_on_skin",
+      "artist_name": "Skin on Skin",
+      "title": "FOR YOUR SAFE KEEPING 003 (Mixtape)",
+      "release_date": "2023-12-31",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_bac68c4b-c789-49e5-a0a1-360d96239d91",
+      "spotify_artist_id": "mock_artist_skin_on_skin",
+      "artist_name": "Skin on Skin",
+      "title": "Wasted",
+      "release_date": "2020-06-26",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "salute": [
+    {
+      "spotify_album_id": "mock_album_701a69de-3515-439d-91f0-6fc06bbaa463",
+      "spotify_artist_id": "mock_artist_salute",
+      "artist_name": "salute",
+      "title": "Condition",
+      "release_date": "2019-09-23",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_90e4f964-808e-4f86-b146-e5e20af620e9",
+      "spotify_artist_id": "mock_artist_salute",
+      "artist_name": "salute",
+      "title": "TRUE MAGIC",
+      "release_date": "2024-07-12",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_e3214a5c-c905-4249-b6fe-5723daadd8b9",
+      "spotify_artist_id": "mock_artist_salute",
+      "artist_name": "salute",
+      "title": "fabric presents salute",
+      "release_date": "2025-10-10",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "TSHA": [
+    {
+      "spotify_album_id": "mock_album_05ebb1dd-a5b2-4bf3-b6ef-67c9e4fd8665",
+      "spotify_artist_id": "mock_artist_tsha",
+      "artist_name": "TSHA",
+      "title": "Capricorn Sun",
+      "release_date": "2022-10-07",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_22c5c822-083f-4617-a7d9-2e25cac25137",
+      "spotify_artist_id": "mock_artist_tsha",
+      "artist_name": "TSHA",
+      "title": "Sad Girl",
+      "release_date": "2024-09-27",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_43d13b74-d0b2-4fa2-9ced-48969d48fc26",
+      "spotify_artist_id": "mock_artist_tsha",
+      "artist_name": "TSHA",
+      "title": "Change",
+      "release_date": "2020-10-13",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_857a41e0-c361-40b9-b70f-38f9c52c04f5",
+      "spotify_artist_id": "mock_artist_tsha",
+      "artist_name": "TSHA",
+      "title": "Sacred",
+      "release_date": "2018-11-30",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_fa14a797-0c2f-4721-9851-e08f146af85e",
+      "spotify_artist_id": "mock_artist_tsha",
+      "artist_name": "TSHA",
+      "title": "OnlyL",
+      "release_date": "2021-06-14",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Model/Actriz": [
+    {
+      "spotify_album_id": "mock_album_model/actriz_fallback",
+      "spotify_artist_id": "mock_artist_model/actriz",
+      "artist_name": "Model/Actriz",
+      "title": "The Best of Model/Actriz",
+      "release_date": "2024-01-01",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Militarie Gun": [
+    {
+      "spotify_album_id": "mock_album_18311233-7e6b-41ea-b358-ca47300891c0",
+      "spotify_artist_id": "mock_artist_militarie_gun",
+      "artist_name": "Militarie Gun",
+      "title": "Audiotree Live",
+      "release_date": "2021-11-08",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_299983df-9392-4a13-ba4a-64b230af0b31",
+      "spotify_artist_id": "mock_artist_militarie_gun",
+      "artist_name": "Militarie Gun",
+      "title": "Big Disappointment",
+      "release_date": "2021-08-17",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_3d06b656-c1cb-44dc-97e7-7efd189103f2",
+      "spotify_artist_id": "mock_artist_militarie_gun",
+      "artist_name": "Militarie Gun",
+      "title": "God Save the Gun",
+      "release_date": "2025-10-16",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_a2048b41-ebaa-4aec-b375-e0867e004c51",
+      "spotify_artist_id": "mock_artist_militarie_gun",
+      "artist_name": "Militarie Gun",
+      "title": "Pressure Cooker",
+      "release_date": "2022-03-14",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_ff34363a-c113-4644-ac4f-c4780c40994f",
+      "spotify_artist_id": "mock_artist_militarie_gun",
+      "artist_name": "Militarie Gun",
+      "title": "Life Under the Gun",
+      "release_date": "2023-06-23",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Gel": [
+    {
+      "spotify_album_id": "mock_album_08b4e5ed-7a16-41de-a7a8-08344e46d61e",
+      "spotify_artist_id": "mock_artist_gel",
+      "artist_name": "Gel",
+      "title": "Violent Closure",
+      "release_date": "2021-02-23",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_9c4a62e8-35a0-4764-801a-9412838d6b36",
+      "spotify_artist_id": "mock_artist_gel",
+      "artist_name": "Gel",
+      "title": "LIVE!",
+      "release_date": "2021-06-14",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_afbd99bb-08ed-4a8a-93a3-948c5e5e5f32",
+      "spotify_artist_id": "mock_artist_gel",
+      "artist_name": "Gel",
+      "title": "MENTAL STATIC",
+      "release_date": "2021-12-10",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_cee5059e-2aa8-4737-866a-c5c2d61f1802",
+      "spotify_artist_id": "mock_artist_gel",
+      "artist_name": "Gel",
+      "title": "Only Constant",
+      "release_date": "2023-03-31",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Scowl": [
+    {
+      "spotify_album_id": "mock_album_176d8ec1-fd9a-4665-95b7-9b03c501efb0",
+      "spotify_artist_id": "mock_artist_scowl",
+      "artist_name": "Scowl",
+      "title": "Psychic Dance Routine (Nuovo Testamento Remix)",
+      "release_date": "2023-09-06",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_1c8cdb68-e22a-4363-b2b7-6b2b7f6cc75e",
+      "spotify_artist_id": "mock_artist_scowl",
+      "artist_name": "Scowl",
+      "title": "Are We All Angels",
+      "release_date": "2025-04-04",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_84bf2a89-1a78-4356-a228-5f3c75b20e90",
+      "spotify_artist_id": "mock_artist_scowl",
+      "artist_name": "Scowl",
+      "title": "How Flowers Grow",
+      "release_date": "2021-11-19",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_8fc17aae-edc7-45ed-966b-082e87fabf19",
+      "spotify_artist_id": "mock_artist_scowl",
+      "artist_name": "Scowl",
+      "title": "Opening Night",
+      "release_date": "2023-02-08",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_9d72cce9-e8eb-4bc4-827b-72519237179e",
+      "spotify_artist_id": "mock_artist_scowl",
+      "artist_name": "Scowl",
+      "title": "Special",
+      "release_date": "2024-10-08",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Zulu": [
+    {
+      "spotify_album_id": "mock_album_03c4ddcc-e8bd-45a1-b497-dfea02f0ab04",
+      "spotify_artist_id": "mock_artist_zulu",
+      "artist_name": "Zulu",
+      "title": "Limpiar, fijar y dar esplendor",
+      "release_date": "2021-02-26",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_114ce52d-8e1c-38e5-97e6-db855bd5413c",
+      "spotify_artist_id": "mock_artist_zulu",
+      "artist_name": "Zulu",
+      "title": "Me duele la boca de decirlo",
+      "release_date": "2002-06-18",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_25cdc465-22b5-4e0a-b572-172ae1f610e2",
+      "spotify_artist_id": "mock_artist_zulu",
+      "artist_name": "Zulu",
+      "title": "La voz del amo",
+      "release_date": "2019",
+      "release_date_precision": "year",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_31d32969-138a-3fed-bb03-0785c7f93022",
+      "spotify_artist_id": "mock_artist_zulu",
+      "artist_name": "Zulu",
+      "title": "El que la lleva la entiende",
+      "release_date": "2006-12-16",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_402d8ee7-c477-3343-b184-5cac0c187d60",
+      "spotify_artist_id": "mock_artist_zulu",
+      "artist_name": "Zulu",
+      "title": "Crisis de claridad: La continua REinvención del yo",
+      "release_date": "2004-11-22",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Hotline TNT": [
+    {
+      "spotify_album_id": "mock_album_13bf608e-5c52-48c3-9036-03a62c5d49cc",
+      "spotify_artist_id": "mock_artist_hotline_tnt",
+      "artist_name": "Hotline TNT",
+      "title": "More Fire",
+      "release_date": "2018",
+      "release_date_precision": "year",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_24b2c566-a6f6-4071-acc1-54cb7e623703",
+      "spotify_artist_id": "mock_artist_hotline_tnt",
+      "artist_name": "Hotline TNT",
+      "title": "Nineteen in Love",
+      "release_date": "2021-10-01",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_4d84f100-3c66-4039-8bb4-36287e62616d",
+      "spotify_artist_id": "mock_artist_hotline_tnt",
+      "artist_name": "Hotline TNT",
+      "title": "More Fire 4",
+      "release_date": "2021",
+      "release_date_precision": "year",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_6582638b-a6b4-41bb-927d-1a4dd74dbfc0",
+      "spotify_artist_id": "mock_artist_hotline_tnt",
+      "artist_name": "Hotline TNT",
+      "title": "More Fire 2",
+      "release_date": "2019",
+      "release_date_precision": "year",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_73eb48f8-12b1-4164-b260-5561d528bf75",
+      "spotify_artist_id": "mock_artist_hotline_tnt",
+      "artist_name": "Hotline TNT",
+      "title": "Raspberry Moon",
+      "release_date": "2025-06-20",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Wednesday": [
+    {
+      "spotify_album_id": "mock_album_25b4fc74-8b36-4a42-acfc-9e06a8fce0d3",
+      "spotify_artist_id": "mock_artist_wednesday",
+      "artist_name": "Wednesday",
+      "title": "Twin Plagues",
+      "release_date": "2021-08-13",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_4e6cf5b3-df30-4ff8-977f-a7bf6e5117f1",
+      "spotify_artist_id": "mock_artist_wednesday",
+      "artist_name": "Wednesday",
+      "title": "yep definitely",
+      "release_date": "2018-01-31",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_5a5a262b-39a2-44df-97e9-9fb97812e303",
+      "spotify_artist_id": "mock_artist_wednesday",
+      "artist_name": "Wednesday",
+      "title": "I Was Trying to Describe You to Someone",
+      "release_date": "2020-02-07",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_5bed2109-60ce-4c13-804a-fc04946ba7f7",
+      "spotify_artist_id": "mock_artist_wednesday",
+      "artist_name": "Wednesday",
+      "title": "Bleeds",
+      "release_date": "2025-09-19",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_a0ad316d-89a2-4f49-b439-8296ca98be01",
+      "spotify_artist_id": "mock_artist_wednesday",
+      "artist_name": "Wednesday",
+      "title": "Rat Saw God",
+      "release_date": "2023-04-07",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "MJ Lenderman": [
+    {
+      "spotify_album_id": "mock_album_0c308741-7b98-4a36-b44e-1ba437b4e2c4",
+      "spotify_artist_id": "mock_artist_mj_lenderman",
+      "artist_name": "MJ Lenderman",
+      "title": "Manning Fireworks",
+      "release_date": "2024-09-06",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_1032da4b-cfbf-494a-876d-50cc5cbc0fe9",
+      "spotify_artist_id": "mock_artist_mj_lenderman",
+      "artist_name": "MJ Lenderman",
+      "title": "2024-10-12: First Ave., Minneapolis, MN",
+      "release_date": "2024-10-13",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_2082299e-00c9-4658-b426-c22eb4139b7e",
+      "spotify_artist_id": "mock_artist_mj_lenderman",
+      "artist_name": "MJ Lenderman",
+      "title": "2024-10-16: Thalia Hall, Chicago, IL",
+      "release_date": "2024-10-16",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_24956414-e585-4c2d-a6d8-a5fb4b265d9b",
+      "spotify_artist_id": "mock_artist_mj_lenderman",
+      "artist_name": "MJ Lenderman",
+      "title": "MJ Lenderman",
+      "release_date": "2019-06-15",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_7ded8f6f-64be-4acf-bd01-57760d1e57e1",
+      "spotify_artist_id": "mock_artist_mj_lenderman",
+      "artist_name": "MJ Lenderman",
+      "title": "And the Wind (Live and Loose!)",
+      "release_date": "2023-11-17",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Blondshell": [
+    {
+      "spotify_album_id": "mock_album_4a0564fd-e9a5-4fb1-8fea-5fd71d116a51",
+      "spotify_artist_id": "mock_artist_blondshell",
+      "artist_name": "Blondshell",
+      "title": "Joiner",
+      "release_date": "2023-01-24",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_66393333-3e8a-4a18-ade5-007934ec1ad4",
+      "spotify_artist_id": "mock_artist_blondshell",
+      "artist_name": "Blondshell",
+      "title": "Blondshell",
+      "release_date": "2023-04-07",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_791d0f83-6cd4-45d6-9c01-190a2a9eba41",
+      "spotify_artist_id": "mock_artist_blondshell",
+      "artist_name": "Blondshell",
+      "title": "If You Asked for a Picture",
+      "release_date": "2025-05-02",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_96a320e3-9ffe-4257-8840-44c1c0702fb7",
+      "spotify_artist_id": "mock_artist_blondshell",
+      "artist_name": "Blondshell",
+      "title": "Veronica Mars",
+      "release_date": "2022-12-06",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_981f996f-52df-4090-b60b-57d8d5236cbf",
+      "spotify_artist_id": "mock_artist_blondshell",
+      "artist_name": "Blondshell",
+      "title": "Charm You",
+      "release_date": "2023-06-21",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Joanna Sternberg": [
+    {
+      "spotify_album_id": "mock_album_3b52b33c-2fee-4c5b-a5a9-c0c793f318c3",
+      "spotify_artist_id": "mock_artist_joanna_sternberg",
+      "artist_name": "Joanna Sternberg",
+      "title": "I’ve Got Me",
+      "release_date": "2023-06-30",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_be846ab5-6ea0-4905-a472-1e87d160a74e",
+      "spotify_artist_id": "mock_artist_joanna_sternberg",
+      "artist_name": "Joanna Sternberg",
+      "title": "Then I Try Some More",
+      "release_date": "2019-07-12",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Kara Jackson": [
+    {
+      "spotify_album_id": "mock_album_1e3a0dad-f93e-4f48-9115-78a5ae69c6e7",
+      "spotify_artist_id": "mock_artist_kara_jackson",
+      "artist_name": "Kara Jackson",
+      "title": "i will survive",
+      "release_date": "2020-11-06",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_1e52b262-7b95-4641-98a7-bb4ca3749046",
+      "spotify_artist_id": "mock_artist_kara_jackson",
+      "artist_name": "Kara Jackson",
+      "title": "Why Does the Earth Give Us People to Love?",
+      "release_date": "2023-04-14",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_2a4c5baf-7c50-4773-a0d8-f6251568b618",
+      "spotify_artist_id": "mock_artist_kara_jackson",
+      "artist_name": "Kara Jackson",
+      "title": "Pawnshop",
+      "release_date": "2023-02-23",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_bd5ba641-63bf-4b08-8bb8-813f7d9f2135",
+      "spotify_artist_id": "mock_artist_kara_jackson",
+      "artist_name": "Kara Jackson",
+      "title": "Right, Wrong or Ready",
+      "release_date": "2024-04-23",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_d9fcee24-a935-41dc-a78e-2d1c25a01011",
+      "spotify_artist_id": "mock_artist_kara_jackson",
+      "artist_name": "Kara Jackson",
+      "title": "Dickhead Blues / Brain",
+      "release_date": "2023-01-19",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Hemlocke Springs": [
+    {
+      "spotify_album_id": "mock_album_337cfec6-7a18-4b38-946a-2fe178098d8d",
+      "spotify_artist_id": "mock_artist_hemlocke_springs",
+      "artist_name": "Hemlocke Springs",
+      "title": "sever the blight",
+      "release_date": "2023-05-02",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_59d9a4af-c35a-4df8-a8e4-c734d8a9be0c",
+      "spotify_artist_id": "mock_artist_hemlocke_springs",
+      "artist_name": "Hemlocke Springs",
+      "title": "going…going…GONE!",
+      "release_date": "2023-09-23",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_74f84926-6fa3-4ded-9f40-83e424e462ff",
+      "spotify_artist_id": "mock_artist_hemlocke_springs",
+      "artist_name": "Hemlocke Springs",
+      "title": "girlfriend",
+      "release_date": "2022-11-02",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_820e0df0-cc90-43d2-9d38-2d7a362b360f",
+      "spotify_artist_id": "mock_artist_hemlocke_springs",
+      "artist_name": "Hemlocke Springs",
+      "title": "gimme all ur luv",
+      "release_date": "2022-05-24",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_8ae4d00d-f9c5-48a9-9999-b79e51f46371",
+      "spotify_artist_id": "mock_artist_hemlocke_springs",
+      "artist_name": "Hemlocke Springs",
+      "title": "heavun",
+      "release_date": "2023-06-12",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Say She She": [
+    {
+      "spotify_album_id": "mock_album_31349052-6e90-4c8f-a64d-5965ce95fba3",
+      "spotify_artist_id": "mock_artist_say_she_she",
+      "artist_name": "Say She She",
+      "title": "Trouble / In My Head",
+      "release_date": "2023-02-10",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_4ca9091b-f7e1-45a0-ab9a-07dd97bc27d8",
+      "spotify_artist_id": "mock_artist_say_she_she",
+      "artist_name": "Say She She",
+      "title": "Cut & Rewind",
+      "release_date": "2025-10-03",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_7fd3b5bc-6d01-45f5-8f03-0a9a03584efd",
+      "spotify_artist_id": "mock_artist_say_she_she",
+      "artist_name": "Say She She",
+      "title": "Forget Me Not / Blow My Mind",
+      "release_date": "2022-03-22",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_81cde01a-ee50-4a72-9a14-5ed079156e0e",
+      "spotify_artist_id": "mock_artist_say_she_she",
+      "artist_name": "Say She She",
+      "title": "Forget Me Not",
+      "release_date": "2022-02-08",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_844cf4cc-bcde-492b-9615-65d7b0029f3d",
+      "spotify_artist_id": "mock_artist_say_she_she",
+      "artist_name": "Say She She",
+      "title": "Silver",
+      "release_date": "2023-09-29",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Charlotte Cardin": [
+    {
+      "spotify_album_id": "mock_album_15e35f81-3149-4517-a288-98ceaccdfc09",
+      "spotify_artist_id": "mock_artist_charlotte_cardin",
+      "artist_name": "Charlotte Cardin",
+      "title": "Faufile",
+      "release_date": "2017",
+      "release_date_precision": "year",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_7926becf-344e-4de5-bdfd-68d8ab23319b",
+      "spotify_artist_id": "mock_artist_charlotte_cardin",
+      "artist_name": "Charlotte Cardin",
+      "title": "Phoenix",
+      "release_date": "2021-04-23",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_854ca2bf-97e0-4c06-903c-f732395dc3af",
+      "spotify_artist_id": "mock_artist_charlotte_cardin",
+      "artist_name": "Charlotte Cardin",
+      "title": "Main Girl (Stripped)",
+      "release_date": "2017",
+      "release_date_precision": "year",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_8af4189b-446f-4c5e-a802-e4f3315020f1",
+      "spotify_artist_id": "mock_artist_charlotte_cardin",
+      "artist_name": "Charlotte Cardin",
+      "title": "99 Nights",
+      "release_date": "2023-08-25",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_adffb2ec-8a2a-4718-9790-31c3f892bd5c",
+      "spotify_artist_id": "mock_artist_charlotte_cardin",
+      "artist_name": "Charlotte Cardin",
+      "title": "Dirty Dirty (Stripped)",
+      "release_date": "2017-07-28",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "NewJeans": [
+    {
+      "spotify_album_id": "mock_album_1bb441a0-6dd9-4b47-88b4-cf88db07ac96",
+      "spotify_artist_id": "mock_artist_newjeans",
+      "artist_name": "NewJeans",
+      "title": "Super Shy",
+      "release_date": "2023-07-07",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_23d1cd75-8dc5-436d-a0c6-cab894dd5f64",
+      "spotify_artist_id": "mock_artist_newjeans",
+      "artist_name": "NewJeans",
+      "title": "OMG",
+      "release_date": "2023-01-02",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_2817894d-e004-4de0-a575-da1fc3675dd0",
+      "spotify_artist_id": "mock_artist_newjeans",
+      "artist_name": "NewJeans",
+      "title": "Be Who You Are (Real Magic)",
+      "release_date": "2023-05-31",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_639c7400-678e-4751-889f-01c168468b32",
+      "spotify_artist_id": "mock_artist_newjeans",
+      "artist_name": "NewJeans",
+      "title": "NJWMX",
+      "release_date": "2023-12-19",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_8b5e82eb-a7e3-4b5f-a2b9-92cb5319f5e7",
+      "spotify_artist_id": "mock_artist_newjeans",
+      "artist_name": "NewJeans",
+      "title": "Supernatural",
+      "release_date": "2024-06-21",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "LE SSERAFIM": [
+    {
+      "spotify_album_id": "mock_album_195b4cc7-40c2-414b-b9b2-5e2c69eb612f",
+      "spotify_artist_id": "mock_artist_le_sserafim",
+      "artist_name": "LE SSERAFIM",
+      "title": "‘PUREFLOW’ pt.1",
+      "release_date": "2026-05-22",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_44748232-fa6a-439b-beef-d2257b701fe5",
+      "spotify_artist_id": "mock_artist_le_sserafim",
+      "artist_name": "LE SSERAFIM",
+      "title": "2023 LE SSERAFIM TOUR ‘FLAME RISES’ IN JAPAN",
+      "release_date": "2024-09-25",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_50f5c625-0add-4fa6-86e5-bfe05f1ca661",
+      "spotify_artist_id": "mock_artist_le_sserafim",
+      "artist_name": "LE SSERAFIM",
+      "title": "EASY CRAZY HOT",
+      "release_date": "2025-09-05",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_be1d9f08-297f-4832-99cc-015003e051ae",
+      "spotify_artist_id": "mock_artist_le_sserafim",
+      "artist_name": "LE SSERAFIM",
+      "title": "UNFORGIVEN",
+      "release_date": "2023-05-01",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_f0a6f260-bad4-4b19-b981-207b3b3ff777",
+      "spotify_artist_id": "mock_artist_le_sserafim",
+      "artist_name": "LE SSERAFIM",
+      "title": "2023 LE SSERAFIM TOUR ‘FLAME RISES’ IN SEOUL",
+      "release_date": "2024-06-28",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "RIIZE": [
+    {
+      "spotify_album_id": "mock_album_0af4c72c-c719-4e65-b829-6f0770f3a254",
+      "spotify_artist_id": "mock_artist_riize",
+      "artist_name": "RIIZE",
+      "title": "Get a Guitar",
+      "release_date": "2023-09-04",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_0c7a578d-c98c-4cfa-94e9-23cf777af824",
+      "spotify_artist_id": "mock_artist_riize",
+      "artist_name": "RIIZE",
+      "title": "RIIZE의 앨범 소개: ODYSSEY",
+      "release_date": "2025-05-26",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_298cb91f-3c2d-4644-9c93-fa0b35017f37",
+      "spotify_artist_id": "mock_artist_riize",
+      "artist_name": "RIIZE",
+      "title": "ODYSSEY",
+      "release_date": "2025-05-19",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_47fbb369-4541-4157-9df7-496621666564",
+      "spotify_artist_id": "mock_artist_riize",
+      "artist_name": "RIIZE",
+      "title": "Talk Saxy",
+      "release_date": "2023-10-27",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_82a0baf9-6ce4-413d-bbc3-a8f212854ba5",
+      "spotify_artist_id": "mock_artist_riize",
+      "artist_name": "RIIZE",
+      "title": "Track by Track Commentary: RIIZE on ODYSSEY",
+      "release_date": "2025-05-26",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "ZEROBASEONE": [
+    {
+      "spotify_album_id": "mock_album_141eea1a-4486-428b-9013-d4ee83c0a671",
+      "spotify_artist_id": "mock_artist_zerobaseone",
+      "artist_name": "ZEROBASEONE",
+      "title": "NEVER SAY NEVER",
+      "release_date": "2025-09-01",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_adf9e73a-37ce-4f23-9b3b-0aedc88be9a4",
+      "spotify_artist_id": "mock_artist_zerobaseone",
+      "artist_name": "ZEROBASEONE",
+      "title": "ゆらゆら -運命の花-",
+      "release_date": "2024-03-08",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "BOYNEXTDOOR": [
+    {
+      "spotify_album_id": "mock_album_2af2d663-289f-481a-8925-7f3533949b66",
+      "spotify_artist_id": "mock_artist_boynextdoor",
+      "artist_name": "BOYNEXTDOOR",
+      "title": "WHO!",
+      "release_date": "2023-05-30",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_702e11c5-b9e1-469c-aad4-15b9871723fc",
+      "spotify_artist_id": "mock_artist_boynextdoor",
+      "artist_name": "BOYNEXTDOOR",
+      "title": "Earth, Wind & Fire (Japanese Ver.)",
+      "release_date": "2024-06-19",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_c10fbcd7-e433-481f-ad50-33369cdece3b",
+      "spotify_artist_id": "mock_artist_boynextdoor",
+      "artist_name": "BOYNEXTDOOR",
+      "title": "부모님 관람불가",
+      "release_date": "2024-09-02",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_ced8da5a-06bf-4570-9834-4456e5bb2ca2",
+      "spotify_artist_id": "mock_artist_boynextdoor",
+      "artist_name": "BOYNEXTDOOR",
+      "title": "HOME",
+      "release_date": "2026-06-08",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_da1cdc5f-dd1f-463f-b05c-ff9c4c6d46b5",
+      "spotify_artist_id": "mock_artist_boynextdoor",
+      "artist_name": "BOYNEXTDOOR",
+      "title": "AND,",
+      "release_date": "2024-07-09",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "PLAVE": [
+    {
+      "spotify_album_id": "mock_album_11fd1691-8e23-4635-9daa-bd9e0733d026",
+      "spotify_artist_id": "mock_artist_plave",
+      "artist_name": "PLAVE",
+      "title": "What If",
+      "release_date": "2024-10-13",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_2e6d90f5-49ec-4673-8148-efb8af9639d4",
+      "spotify_artist_id": "mock_artist_plave",
+      "artist_name": "PLAVE",
+      "title": "Merry PLListmas",
+      "release_date": "2023-12-12",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_395c331f-5690-4b9a-88ad-6cfc2316bfa5",
+      "spotify_artist_id": "mock_artist_plave",
+      "artist_name": "PLAVE",
+      "title": "ASTERUM",
+      "release_date": "2023-03-12",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_695f8845-e18b-449c-9748-8a5d826b1428",
+      "spotify_artist_id": "mock_artist_plave",
+      "artist_name": "PLAVE",
+      "title": "Pump Up The Volume!",
+      "release_date": "2024-08-20",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_8b255854-425a-4862-b674-ce47c7fb87c3",
+      "spotify_artist_id": "mock_artist_plave",
+      "artist_name": "PLAVE",
+      "title": "かくれんぼ (Hide and Seek)",
+      "release_date": "2025-06-16",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "XG": [
+    {
+      "spotify_album_id": "mock_album_12098969-aa7b-40a7-820b-00ef35bcee13",
+      "spotify_artist_id": "mock_artist_xg",
+      "artist_name": "XG",
+      "title": "XDM Unidentified Waves",
+      "release_date": "2025-01-31",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_4f777681-894e-41d3-8ca5-1c9b443ade93",
+      "spotify_artist_id": "mock_artist_xg",
+      "artist_name": "XG",
+      "title": "XG 1st WORLD TOUR “The first HOWL” Live",
+      "release_date": "2025-08-08",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_5d3ad110-4812-4233-a9d5-d7546783d925",
+      "spotify_artist_id": "mock_artist_xg",
+      "artist_name": "XG",
+      "title": "MASCARA",
+      "release_date": "2022-06-29",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_723e6103-2b72-4885-9b93-09ba3e43a1b0",
+      "spotify_artist_id": "mock_artist_xg",
+      "artist_name": "XG",
+      "title": "SHOOTING STAR",
+      "release_date": "2023-01-25",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_727f6ebe-9e19-46f0-8d0e-cb96de582a6b",
+      "spotify_artist_id": "mock_artist_xg",
+      "artist_name": "XG",
+      "title": "GRL GVNG",
+      "release_date": "2023-06-30",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "QWER": [
+    {
+      "spotify_album_id": "mock_album_377465a1-0839-4db6-aa5d-351786ca2539",
+      "spotify_artist_id": "mock_artist_qwer",
+      "artist_name": "QWER",
+      "title": "FAKE IDOL",
+      "release_date": "2024-09-02",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_a64f2028-f662-43fe-aea5-60e1665e1353",
+      "spotify_artist_id": "mock_artist_qwer",
+      "artist_name": "QWER",
+      "title": "청춘서약",
+      "release_date": "2025-02-28",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_e828d57e-f849-427b-907d-3b4d0450cec2",
+      "spotify_artist_id": "mock_artist_qwer",
+      "artist_name": "QWER",
+      "title": "Harmony from Discord",
+      "release_date": "2023-10-18",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_ef2b9fcd-bbd8-4e46-8a03-8d4587531561",
+      "spotify_artist_id": "mock_artist_qwer",
+      "artist_name": "QWER",
+      "title": "Discord (TAK remix)",
+      "release_date": "2023-12-12",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_f6027192-7e1d-4e68-a82b-b43cab18efea",
+      "spotify_artist_id": "mock_artist_qwer",
+      "artist_name": "QWER",
+      "title": "흰수염고래",
+      "release_date": "2025-10-06",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "KATSEYE": [
+    {
+      "spotify_album_id": "mock_album_0bd2ac53-9915-4f31-8dba-7277df216cc9",
+      "spotify_artist_id": "mock_artist_katseye",
+      "artist_name": "KATSEYE",
+      "title": "Gabriela",
+      "release_date": "2025-06-20",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_131a8a3d-55d4-4b74-87b9-2daa43d639e3",
+      "spotify_artist_id": "mock_artist_katseye",
+      "artist_name": "KATSEYE",
+      "title": "PINKY UP",
+      "release_date": "2026-04-09",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_60e4cc5b-cf97-4dae-b0c1-d30adb8c11cc",
+      "spotify_artist_id": "mock_artist_katseye",
+      "artist_name": "KATSEYE",
+      "title": "Gnarly",
+      "release_date": "2025-04-30",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_8b7e95c9-487f-4364-98b6-c1d64a857401",
+      "spotify_artist_id": "mock_artist_katseye",
+      "artist_name": "KATSEYE",
+      "title": "Touch",
+      "release_date": "2024-07-26",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_b8b3e910-6c1a-4fd4-a4e6-d2d13d2836c9",
+      "spotify_artist_id": "mock_artist_katseye",
+      "artist_name": "KATSEYE",
+      "title": "Debut",
+      "release_date": "2024-06-28",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "UNIS": [
+    {
+      "spotify_album_id": "mock_album_0a447276-d31c-34fb-aa30-fffbd169cd54",
+      "spotify_artist_id": "mock_artist_unis",
+      "artist_name": "UNIS",
+      "title": "Imaginarium",
+      "release_date": "1998-04",
+      "release_date_precision": "month",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_43c917be-fd2a-315a-9b22-54f0c6244c9c",
+      "spotify_artist_id": "mock_artist_unis",
+      "artist_name": "UNIS",
+      "title": "Pulse n Atmo",
+      "release_date": "2001",
+      "release_date_precision": "year",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_5719423d-6c68-3c4f-94fd-43e921d43260",
+      "spotify_artist_id": "mock_artist_unis",
+      "artist_name": "UNIS",
+      "title": "Perimeter",
+      "release_date": "2001",
+      "release_date_precision": "year",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_86029b5c-0371-3dee-aeb9-418327ae38b5",
+      "spotify_artist_id": "mock_artist_unis",
+      "artist_name": "UNIS",
+      "title": "Blood Machine",
+      "release_date": "2001",
+      "release_date_precision": "year",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_bcd8daaf-16d4-42da-9715-1e9f1a6fa2df",
+      "spotify_artist_id": "mock_artist_unis",
+      "artist_name": "UNIS",
+      "title": "Aqua Culture I",
+      "release_date": "2001-09-09",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "bad invitations": [
+    {
+      "spotify_album_id": "mock_album_bad_invitations_fallback",
+      "spotify_artist_id": "mock_artist_bad_invitations",
+      "artist_name": "bad invitations",
+      "title": "The Best of bad invitations",
+      "release_date": "2024-01-01",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "bar italia": [
+    {
+      "spotify_album_id": "mock_album_3ccb9823-64c8-48b9-a498-b8553aef0ad2",
+      "spotify_artist_id": "mock_artist_bar_italia",
+      "artist_name": "bar italia",
+      "title": "Some Like It Hot",
+      "release_date": "2025-10-17",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_a3082a0f-4f5d-46de-bafb-53c4c022b99f",
+      "spotify_artist_id": "mock_artist_bar_italia",
+      "artist_name": "bar italia",
+      "title": "bedhead",
+      "release_date": "2021-03-24",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_ba68dbcf-f386-44ee-b69f-c84c1aa40853",
+      "spotify_artist_id": "mock_artist_bar_italia",
+      "artist_name": "bar italia",
+      "title": "Tracey Denim",
+      "release_date": "2023-05-19",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_bf294d49-c894-43c1-9429-2dd9ae9a959a",
+      "spotify_artist_id": "mock_artist_bar_italia",
+      "artist_name": "bar italia",
+      "title": "Quarrel",
+      "release_date": "2020-09-03",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_f98d24c6-56bc-452c-b785-106ea3b30e2e",
+      "spotify_artist_id": "mock_artist_bar_italia",
+      "artist_name": "bar italia",
+      "title": "The Twits",
+      "release_date": "2023-11-03",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Geese": [
+    {
+      "spotify_album_id": "mock_album_28e85e4b-5e91-476f-b0a7-e81c01ac33f2",
+      "spotify_artist_id": "mock_artist_geese",
+      "artist_name": "Geese",
+      "title": "2025-11-12: 9:30 Club, Washington, DC",
+      "release_date": "2025-12-11",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_3055ecca-1e15-4207-85f0-c03fcc6ae602",
+      "spotify_artist_id": "mock_artist_geese",
+      "artist_name": "Geese",
+      "title": "2025-10-18: Amsterdam Bar and Hall St. Paul, MN, USA",
+      "release_date": "2025",
+      "release_date_precision": "year",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_3c18308c-9072-4810-b26e-0c573e46fb07",
+      "spotify_artist_id": "mock_artist_geese",
+      "artist_name": "Geese",
+      "title": "Getting Killed",
+      "release_date": "2025-09-26",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_43fad838-459c-43bf-a4af-7b8276235864",
+      "spotify_artist_id": "mock_artist_geese",
+      "artist_name": "Geese",
+      "title": "A Beautiful Memory",
+      "release_date": "2018-07-13",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_c6a72221-c186-4319-91f4-8499dd491762",
+      "spotify_artist_id": "mock_artist_geese",
+      "artist_name": "Geese",
+      "title": "Projector",
+      "release_date": "2021-10-29",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Nation of Language": [
+    {
+      "spotify_album_id": "mock_album_0aa93ff3-6bbe-4433-95f8-7c1061f6e58e",
+      "spotify_artist_id": "mock_artist_nation_of_language",
+      "artist_name": "Nation of Language",
+      "title": "A Way Forward",
+      "release_date": "2021-11-05",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_709e109a-ec47-4848-b2ce-9ebf97ec32b0",
+      "spotify_artist_id": "mock_artist_nation_of_language",
+      "artist_name": "Nation of Language",
+      "title": "I've Thought About Chicago",
+      "release_date": "2017-02-13",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_859cac6b-054e-478f-bfd9-0321c548bf64",
+      "spotify_artist_id": "mock_artist_nation_of_language",
+      "artist_name": "Nation of Language",
+      "title": "Reality",
+      "release_date": "2018-05-08",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_a18fc939-73dd-43bb-a7c4-80ec6a758f40",
+      "spotify_artist_id": "mock_artist_nation_of_language",
+      "artist_name": "Nation of Language",
+      "title": "Indignities",
+      "release_date": "2017-11-01",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_af9301be-e8e6-4068-a332-2b92e1bfc95e",
+      "spotify_artist_id": "mock_artist_nation_of_language",
+      "artist_name": "Nation of Language",
+      "title": "Strange Disciple",
+      "release_date": "2023-09-15",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Paris Paloma": [
+    {
+      "spotify_album_id": "mock_album_1c72d3fb-27a4-4d76-93cc-c3102652ad4d",
+      "spotify_artist_id": "mock_artist_paris_paloma",
+      "artist_name": "Paris Paloma",
+      "title": "Underneath",
+      "release_date": "2021-02-12",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_613c39aa-9049-4b6d-984c-adc1560d949c",
+      "spotify_artist_id": "mock_artist_paris_paloma",
+      "artist_name": "Paris Paloma",
+      "title": "Ocean Baby",
+      "release_date": "2020-11-19",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_7b60023a-72d9-4450-bcf3-3dc8e57ab563",
+      "spotify_artist_id": "mock_artist_paris_paloma",
+      "artist_name": "Paris Paloma",
+      "title": "Cacophony",
+      "release_date": "2024-08-30",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_ab46595a-f49d-42fe-9085-e19002ab23a0",
+      "spotify_artist_id": "mock_artist_paris_paloma",
+      "artist_name": "Paris Paloma",
+      "title": "the last beautiful thing I saw is the thing that blinded me",
+      "release_date": "2021-10-19",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_b2817dc1-f0f9-4145-9991-888be3674702",
+      "spotify_artist_id": "mock_artist_paris_paloma",
+      "artist_name": "Paris Paloma",
+      "title": "The Fatal Flaw",
+      "release_date": "2026-09-04",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Isabel LaRosa": [
+    {
+      "spotify_album_id": "mock_album_1472d9db-b648-4e5e-b777-f06f61cc9696",
+      "spotify_artist_id": "mock_artist_isabel_larosa",
+      "artist_name": "Isabel LaRosa",
+      "title": "HELP",
+      "release_date": "2022-04-15",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_17cd5df5-e629-4fcf-ba29-abb18a9f006e",
+      "spotify_artist_id": "mock_artist_isabel_larosa",
+      "artist_name": "Isabel LaRosa",
+      "title": "GAMEBOY",
+      "release_date": "2021-12-08",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_1a2da649-efde-44ff-a22d-31995f38345c",
+      "spotify_artist_id": "mock_artist_isabel_larosa",
+      "artist_name": "Isabel LaRosa",
+      "title": "16 Candles",
+      "release_date": "2021-09-08",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_4220290d-76d2-4f84-9ff9-b67e41460321",
+      "spotify_artist_id": "mock_artist_isabel_larosa",
+      "artist_name": "Isabel LaRosa",
+      "title": "Therapy",
+      "release_date": "2022-01-26",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_429ac198-642a-4cf8-956f-007773ca5d99",
+      "spotify_artist_id": "mock_artist_isabel_larosa",
+      "artist_name": "Isabel LaRosa",
+      "title": "Closer",
+      "release_date": "2021-10-27",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "grentperez": [
+    {
+      "spotify_album_id": "mock_album_a0c0dccc-27b8-4a99-99e4-8910c387466b",
+      "spotify_artist_id": "mock_artist_grentperez",
+      "artist_name": "grentperez",
+      "title": "Op Shop Lover",
+      "release_date": "2023-09-28",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_a9657c7d-700a-43b6-95e4-47d4fd5dd832",
+      "spotify_artist_id": "mock_artist_grentperez",
+      "artist_name": "grentperez",
+      "title": "When We Were Younger",
+      "release_date": "2023-06-02",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_ad8eb38c-04f3-4f08-9206-a5be5f2a3135",
+      "spotify_artist_id": "mock_artist_grentperez",
+      "artist_name": "grentperez",
+      "title": "Room For You",
+      "release_date": "2024-07-26",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_b085957a-db0e-4194-8416-090f14ea1806",
+      "spotify_artist_id": "mock_artist_grentperez",
+      "artist_name": "grentperez",
+      "title": "Cherry Wine",
+      "release_date": "2021-09-10",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_d189914d-d86e-432d-908e-d768eecf0b3d",
+      "spotify_artist_id": "mock_artist_grentperez",
+      "artist_name": "grentperez",
+      "title": "Backflips in a Restaurant",
+      "release_date": "2025-03-28",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Stephen Sanchez": [
+    {
+      "spotify_album_id": "mock_album_25e91786-8683-42ee-806c-27d206b9d5ed",
+      "spotify_artist_id": "mock_artist_stephen_sanchez",
+      "artist_name": "Stephen Sanchez",
+      "title": "Lady by the Sea",
+      "release_date": "2020-12-18",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_555f06a8-5d9b-4ec1-9d73-a5a529ab3010",
+      "spotify_artist_id": "mock_artist_stephen_sanchez",
+      "artist_name": "Stephen Sanchez",
+      "title": "Until I Found You",
+      "release_date": "2021-09-01",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_9edbb02e-9560-4165-b5d8-ee8d93572496",
+      "spotify_artist_id": "mock_artist_stephen_sanchez",
+      "artist_name": "Stephen Sanchez",
+      "title": "Missing You",
+      "release_date": "2022-11-04",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_b7bc7d74-c8de-457a-844c-1a95715ae253",
+      "spotify_artist_id": "mock_artist_stephen_sanchez",
+      "artist_name": "Stephen Sanchez",
+      "title": "Hold Her While You Can",
+      "release_date": "2021-09-24",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_d3b10e58-f3a6-491d-91eb-0a45189783bf",
+      "spotify_artist_id": "mock_artist_stephen_sanchez",
+      "artist_name": "Stephen Sanchez",
+      "title": "Kayla",
+      "release_date": "2021-07-09",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "d4vd": [
+    {
+      "spotify_album_id": "mock_album_18bcfe36-1168-4728-b08b-a3a86fb4f065",
+      "spotify_artist_id": "mock_artist_d4vd",
+      "artist_name": "d4vd",
+      "title": "Bleed Out",
+      "release_date": "2022-02-22",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_8e2dc57e-5b0c-45b7-85e1-6d179c91883b",
+      "spotify_artist_id": "mock_artist_d4vd",
+      "artist_name": "d4vd",
+      "title": "WITHERED Deluxe: Marcescence",
+      "release_date": "2024-01-01",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_b39fa6c2-299a-4840-94df-7cc01049ef97",
+      "spotify_artist_id": "mock_artist_d4vd",
+      "artist_name": "d4vd",
+      "title": "Run Away",
+      "release_date": "2021-12-21",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_b45ace46-81cd-4832-93a4-62baaefe6893",
+      "spotify_artist_id": "mock_artist_d4vd",
+      "artist_name": "d4vd",
+      "title": "WITHERED",
+      "release_date": "2025-04-25",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_fa4194ae-00de-4b25-bebb-e2c124bde612",
+      "spotify_artist_id": "mock_artist_d4vd",
+      "artist_name": "d4vd",
+      "title": "You and I",
+      "release_date": "2022-01-10",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Lizzie McAlpine": [
+    {
+      "spotify_album_id": "mock_album_lizzie_mcalpine_fallback",
+      "spotify_artist_id": "mock_artist_lizzie_mcalpine",
+      "artist_name": "Lizzie McAlpine",
+      "title": "The Best of Lizzie McAlpine",
+      "release_date": "2024-01-01",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Noah Kahan": [
+    {
+      "spotify_album_id": "mock_album_09d6c4af-2545-468e-8b44-4d5eb3e9aa85",
+      "spotify_artist_id": "mock_artist_noah_kahan",
+      "artist_name": "Noah Kahan",
+      "title": "The Great Divide",
+      "release_date": "2026-04-24",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_14fc4370-9b90-411b-a02e-6c6d5a8799fc",
+      "spotify_artist_id": "mock_artist_noah_kahan",
+      "artist_name": "Noah Kahan",
+      "title": "Stick Season",
+      "release_date": "2022-10-14",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_54970d86-196c-48f4-8ff4-f3b870c90453",
+      "spotify_artist_id": "mock_artist_noah_kahan",
+      "artist_name": "Noah Kahan",
+      "title": "Young Blood",
+      "release_date": "2017-01-27",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_7aaf9cfc-14f7-4add-a5de-4b82be82afd2",
+      "spotify_artist_id": "mock_artist_noah_kahan",
+      "artist_name": "Noah Kahan",
+      "title": "I Was / I Am",
+      "release_date": "2021-09-17",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_c4474d91-8323-4eac-8630-e1b765c8770d",
+      "spotify_artist_id": "mock_artist_noah_kahan",
+      "artist_name": "Noah Kahan",
+      "title": "Noah Kahan: Live from Fenway Park",
+      "release_date": "2024-08-30",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Zach Bryan": [
+    {
+      "spotify_album_id": "mock_album_4feeb990-b122-4300-96e9-e8193f33c351",
+      "spotify_artist_id": "mock_artist_zach_bryan",
+      "artist_name": "Zach Bryan",
+      "title": "Zach Bryan",
+      "release_date": "2023-08-25",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_759239fc-b08f-4159-920f-46640284dfa6",
+      "spotify_artist_id": "mock_artist_zach_bryan",
+      "artist_name": "Zach Bryan",
+      "title": "24 (Live)",
+      "release_date": "2024-12-20",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_7f1f0e41-2831-4902-8c60-8c705b1b3bf3",
+      "spotify_artist_id": "mock_artist_zach_bryan",
+      "artist_name": "Zach Bryan",
+      "title": "American Heartbreak",
+      "release_date": "2022-05-20",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_84fd33ce-5719-4082-9756-dec4b38a48b4",
+      "spotify_artist_id": "mock_artist_zach_bryan",
+      "artist_name": "Zach Bryan",
+      "title": "With Heaven on Top",
+      "release_date": "2026-01-09",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_b81e26a6-e8d8-4e40-bcd0-d8a08ac43c5a",
+      "spotify_artist_id": "mock_artist_zach_bryan",
+      "artist_name": "Zach Bryan",
+      "title": "The Great American Bar Scene",
+      "release_date": "2024-07-04",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Warren Zeiders": [
+    {
+      "spotify_album_id": "mock_album_15ce0b87-8dd0-4eb8-9bb8-752aae3ee6cb",
+      "spotify_artist_id": "mock_artist_warren_zeiders",
+      "artist_name": "Warren Zeiders",
+      "title": "Relapse",
+      "release_date": "2024-08-23",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_55a7b243-50b0-4467-82a9-59e9586f3e58",
+      "spotify_artist_id": "mock_artist_warren_zeiders",
+      "artist_name": "Warren Zeiders",
+      "title": "Acoustic Covers",
+      "release_date": "2021-08-06",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_5a5c757c-6c1f-4280-a4c0-9be59ff97bd5",
+      "spotify_artist_id": "mock_artist_warren_zeiders",
+      "artist_name": "Warren Zeiders",
+      "title": "Ride the Lightning",
+      "release_date": "2021-11-12",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_b7127b8b-9637-4675-bb76-72a268b0d454",
+      "spotify_artist_id": "mock_artist_warren_zeiders",
+      "artist_name": "Warren Zeiders",
+      "title": "Ride the Lightning (717 Tapes)",
+      "release_date": "2021-06-25",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_be4a5b79-e30e-4064-a486-c38aa230f1b5",
+      "spotify_artist_id": "mock_artist_warren_zeiders",
+      "artist_name": "Warren Zeiders",
+      "title": "Pretty Little Poison",
+      "release_date": "2023-08-18",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Sam Barber": [
+    {
+      "spotify_album_id": "mock_album_00330709-b128-4fcb-98d6-5822b0a63b8b",
+      "spotify_artist_id": "mock_artist_sam_barber",
+      "artist_name": "Sam Barber",
+      "title": "Restless Mind",
+      "release_date": "2024-11-01",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_4ba38515-35d9-4b10-8dae-04d4bdf2acbd",
+      "spotify_artist_id": "mock_artist_sam_barber",
+      "artist_name": "Sam Barber",
+      "title": "Live From 2025",
+      "release_date": "2026-02-06",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_85fa2b27-2869-415d-8683-496dada3424d",
+      "spotify_artist_id": "mock_artist_sam_barber",
+      "artist_name": "Sam Barber",
+      "title": "Drowning",
+      "release_date": "2023-03-22",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_a1bf4d26-aee9-4a29-9c37-91a49c8c08a8",
+      "spotify_artist_id": "mock_artist_sam_barber",
+      "artist_name": "Sam Barber",
+      "title": "Ramblin Man",
+      "release_date": "2022-05-08",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_c69d7915-b606-4a46-af38-7f71ef75e094",
+      "spotify_artist_id": "mock_artist_sam_barber",
+      "artist_name": "Sam Barber",
+      "title": "As Time Passes",
+      "release_date": "2022-12-15",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Megan Thee Stallion": [
+    {
+      "spotify_album_id": "mock_album_286f1888-6de7-4a72-aeaa-7df9f18633db",
+      "spotify_artist_id": "mock_artist_megan_thee_stallion",
+      "artist_name": "Megan Thee Stallion",
+      "title": "Something for Thee Hotties",
+      "release_date": "2021-10-29",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_a98f1c25-bf88-41b2-9a62-b9df57bd555c",
+      "spotify_artist_id": "mock_artist_megan_thee_stallion",
+      "artist_name": "Megan Thee Stallion",
+      "title": "Fever",
+      "release_date": "2019-05-16",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_c7e0972a-f876-429f-b9ad-b9c281dee7dc",
+      "spotify_artist_id": "mock_artist_megan_thee_stallion",
+      "artist_name": "Megan Thee Stallion",
+      "title": "Good News",
+      "release_date": "2020-11-20",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_d20d5d07-bcb1-4aa2-a1a2-d8d2144ae782",
+      "spotify_artist_id": "mock_artist_megan_thee_stallion",
+      "artist_name": "Megan Thee Stallion",
+      "title": "Traumazine",
+      "release_date": "2022-08-12",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_d35d2779-d4c7-4210-92fe-d0d65289adf4",
+      "spotify_artist_id": "mock_artist_megan_thee_stallion",
+      "artist_name": "Megan Thee Stallion",
+      "title": "MEGAN",
+      "release_date": "2024-06-28",
+      "release_date_precision": "day",
+      "album_type": "album"
+    }
+  ],
+  "Central Cee": [
+    {
+      "spotify_album_id": "mock_album_19eb98ff-d741-4ec2-9137-905654b6e722",
+      "spotify_artist_id": "mock_artist_central_cee",
+      "artist_name": "Central Cee",
+      "title": "CAN’T RUSH GREATNESS",
+      "release_date": "2025-01-24",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_38abbeda-5801-4202-8c42-d6721badb5d3",
+      "spotify_artist_id": "mock_artist_central_cee",
+      "artist_name": "Central Cee",
+      "title": "Wild West",
+      "release_date": "2021-03-12",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_857825ca-f17b-42f3-9579-5427632c7449",
+      "spotify_artist_id": "mock_artist_central_cee",
+      "artist_name": "Central Cee",
+      "title": "23",
+      "release_date": "2022-02-25",
+      "release_date_precision": "day",
+      "album_type": "album"
+    },
+    {
+      "spotify_album_id": "mock_album_8676e231-9954-400b-b4cd-714620402b47",
+      "spotify_artist_id": "mock_artist_central_cee",
+      "artist_name": "Central Cee",
+      "title": "Me & You",
+      "release_date": "2017-07-30",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_944fae8a-aac6-4b4c-a9be-8ad70f94f816",
+      "spotify_artist_id": "mock_artist_central_cee",
+      "artist_name": "Central Cee",
+      "title": "Back2back",
+      "release_date": "2019-06-27",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ],
+  "Ice Spice": [
+    {
+      "spotify_album_id": "mock_album_2b49a029-e9ef-4795-992a-17615629d284",
+      "spotify_artist_id": "mock_artist_ice_spice",
+      "artist_name": "Ice Spice",
+      "title": "Munch (Feelin’ U)",
+      "release_date": "2022-08-10",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_2c164df9-5ab3-4076-aef1-7adb4644cc9e",
+      "spotify_artist_id": "mock_artist_ice_spice",
+      "artist_name": "Ice Spice",
+      "title": "Been Bad (Freestyle)",
+      "release_date": "2021-04-03",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_424d4e57-c225-4b3f-8f96-da04b0e7af02",
+      "spotify_artist_id": "mock_artist_ice_spice",
+      "artist_name": "Ice Spice",
+      "title": "One Time",
+      "release_date": "2022-09-16",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_63d4a325-f3f8-4685-b712-42db93a34a63",
+      "spotify_artist_id": "mock_artist_ice_spice",
+      "artist_name": "Ice Spice",
+      "title": "No Clarity",
+      "release_date": "2021-11-05",
+      "release_date_precision": "day",
+      "album_type": "single"
+    },
+    {
+      "spotify_album_id": "mock_album_7e5e2d1b-ab22-4332-9686-53acf5a355b5",
+      "spotify_artist_id": "mock_artist_ice_spice",
+      "artist_name": "Ice Spice",
+      "title": "Name of Love",
+      "release_date": "2022-04-12",
+      "release_date_precision": "day",
+      "album_type": "single"
+    }
+  ]
+}
