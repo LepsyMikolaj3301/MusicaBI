@@ -6,4 +6,15 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "dlt[postgres]>=1.4.0",
+    "pytrends>=4.9.0",
 ]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-mock>=3.14.0",
+]
+
+[tool.pytest.ini_options]
+# Disable the ROS launch_testing pytest plugin that leaks in from /opt/ros on this machine
+addopts = "-p no:launch_testing"
