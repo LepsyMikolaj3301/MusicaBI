@@ -4,7 +4,6 @@ import dlt
 from etl.sources.lastfm import lastfm_source
 from etl.sources.spotify import spotify_source
 from etl.sources.musicbrainz import musicbrainz_source
-from etl.sources.google_trends import google_trends_source
 
 
 def load_artists_from_file() -> list[str]:
@@ -46,11 +45,6 @@ def run_musicbrainz(artist_names: list) -> None:
     _log(pipeline.run(musicbrainz_source(artist_names=artist_names)))
 
 
-def run_google_trends(artist_names: list) -> None:
-    pipeline = _make_pipeline("google_trends_to_staging")
-    _log(pipeline.run(google_trends_source(artist_names=artist_names)))
-
-
 def run_all() -> None:
     artist_names = load_artists_from_file()
     if not artist_names:
@@ -58,7 +52,6 @@ def run_all() -> None:
     run_lastfm(artist_names)
     run_spotify(artist_names)
     run_musicbrainz(artist_names)
-    run_google_trends(artist_names)
 
 
 if __name__ == "__main__":

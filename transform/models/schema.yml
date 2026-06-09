@@ -12,8 +12,6 @@ sources:
         description: Artist metadata from MusicBrainz (country, debut_year, mbid) — replace disposition.
       - name: stg_spotify_albums
         description: Album catalogue from Spotify (title, release_date, type) — replace disposition.
-      - name: stg_google_trends
-        description: Weekly Google Trends interest scores per artist — merge disposition.
 
 models:
   - name: dim_date
@@ -72,3 +70,7 @@ models:
         tests: [not_null]
       - name: date_id
         tests: [not_null]
+      - name: breakout_score
+        description: >
+          Normalised index 0-100. 70% PERCENT_RANK of growth_velocity + 30% inverse
+          PERCENT_RANK of listener count (niche bonus), both partitioned by day.

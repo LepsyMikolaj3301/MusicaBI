@@ -5,83 +5,85 @@
 /*
   Grain: one row per artist per day.
 
-  Sources:
+  Source:
     - stg_lastfm_artists  → daily snapshots (merge write disposition)
-    - stg_google_trends   → weekly scores, forward-filled to daily via correlated subquery
 
   Derived measures:
-    growth_velocity  = day-over-day % change in lastfm_listeners (LAG window)
-    breakout_score   = weighted composite: 40% google_trends visibility
-                       + 60% positive follower growth momentum
+    growth_velocity  = day-over-day % change in lastfm_listeners (LAG window);
+                       NULL on the first recorded day for each artist.
 
-  spotify_popularity / spotify_followers are permanently omitted — removed from
-  the Spotify public API in late 2024 and unavailable from any current endpoint.
+    breakout_score   = normalised composite index 0–100, designed to surface
+                       fast-growing underground artists:
+                         70%  PERCENT_RANK of growth_velocity within the day
+                              (relative ranking — highest growth = highest score)
+                         30%  inverse PERCENT_RANK of listener count within the day
+                              (niche bonus — fewer listeners = higher score)
+                       Artists with NULL growth_velocity (first day) receive 0.
+
+  spotify_popularity / spotify_followers permanently omitted — removed from the
+  Spotify public API in late 2024.
+  google_trends_score removed — weekly granularity and mock-only data made it
+  non-functional; all rows had is_estimated=TRUE, so LOCF never populated the column.
 */
 
 WITH lastfm_daily AS (
     SELECT
         artist_name,
-        scraped_date::date          AS metric_date,
-        listeners                   AS lastfm_listeners,
-        playcount                   AS lastfm_playcount
+        scraped_date::date      AS metric_date,
+        listeners               AS lastfm_listeners,
+        playcount               AS lastfm_playcount
     FROM {{ source('staging', 'stg_lastfm_artists') }}
     WHERE scraped_date IS NOT NULL
 ),
 
--- Forward-fill Google Trends weekly score to each daily row.
--- Correlated subquery picks the most recent non-estimated weekly score
--- on or before the current metric_date (LOCF — last observation carried forward).
-daily_with_trends AS (
-    SELECT
-        l.artist_name,
-        l.metric_date,
-        l.lastfm_listeners,
-        l.lastfm_playcount,
-        (
-            SELECT gt.trends_score
-            FROM {{ source('staging', 'stg_google_trends') }} gt
-            WHERE lower(trim(gt.artist_name)) = lower(trim(l.artist_name))
-              AND gt.date::date <= l.metric_date
-              AND NOT gt.is_estimated
-            ORDER BY gt.date DESC
-            LIMIT 1
-        ) AS google_trends_score
-    FROM lastfm_daily l
-),
-
--- growth_velocity: day-over-day percentage change in unique listeners.
--- NULL on the first recorded day for each artist (no prior value to compare).
 with_velocity AS (
     SELECT
         artist_name,
         metric_date,
         lastfm_listeners,
         lastfm_playcount,
-        google_trends_score,
         ROUND(
             (lastfm_listeners - LAG(lastfm_listeners) OVER w)::numeric
             / NULLIF(LAG(lastfm_listeners) OVER w, 0) * 100.0
         , 2) AS growth_velocity
-    FROM daily_with_trends
+    FROM lastfm_daily
     WINDOW w AS (PARTITION BY artist_name ORDER BY metric_date)
+),
+
+joined AS (
+    SELECT
+        a.artist_id,
+        d.date_id,
+        w.metric_date,
+        w.lastfm_listeners,
+        w.lastfm_playcount,
+        w.growth_velocity
+    FROM with_velocity w
+    JOIN {{ ref('dim_artist') }} a
+        ON lower(trim(w.artist_name)) = lower(trim(a.name))
+    JOIN {{ ref('dim_date') }} d
+        ON w.metric_date = d.full_date
 )
 
 SELECT
-    a.artist_id,
-    d.date_id,
-    w.metric_date,
-    w.lastfm_listeners,
-    w.lastfm_playcount,
-    w.google_trends_score,
-    w.growth_velocity,
-    -- breakout_score: 40% search trend visibility + 60% positive growth momentum.
-    -- GREATEST(..., 0) treats negative growth as zero contribution (not a breakout signal).
+    artist_id,
+    date_id,
+    metric_date,
+    lastfm_listeners,
+    lastfm_playcount,
+    growth_velocity,
     ROUND(
-        COALESCE(w.google_trends_score, 0) * 0.4
-        + GREATEST(COALESCE(w.growth_velocity, 0), 0) * 0.6
+        (
+            PERCENT_RANK() OVER (
+                PARTITION BY metric_date
+                ORDER BY GREATEST(COALESCE(growth_velocity, 0), 0)
+            ) * 0.7
+            + (
+                1.0 - PERCENT_RANK() OVER (
+                    PARTITION BY metric_date
+                    ORDER BY lastfm_listeners
+                )
+            ) * 0.3
+        ) * 100.0
     , 2) AS breakout_score
-FROM with_velocity w
-JOIN {{ ref('dim_artist') }} a
-    ON lower(trim(w.artist_name)) = lower(trim(a.name))
-JOIN {{ ref('dim_date') }} d
-    ON w.metric_date = d.full_date
+FROM joined
