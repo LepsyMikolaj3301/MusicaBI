@@ -27,107 +27,108 @@ GROWTH = {
 }
 
 # (today_listeners, country_iso2, [genres], growth_type)
+# base_listeners aligned to real Last.fm values scraped 2026-06-09
 ARTISTS = {
-    "Chappell Roan":                   (3_200_000, "US", ["pop", "indie pop", "synth-pop"], "breakout"),
-    "Sabrina Carpenter":               (6_500_000, "US", ["pop", "dance pop"], "breakout"),
-    "Benson Boone":                    (2_100_000, "US", ["pop", "indie pop"], "growing"),
-    "Shaboozey":                       (1_200_000, "US", ["country", "hip-hop", "country rap"], "breakout"),
-    "Tommy Richman":                   (850_000,   "US", ["r&b", "soul", "hip-hop"], "growing"),
-    "Tyla":                            (2_300_000, "ZA", ["afropop", "pop", "r&b"], "growing"),
-    "Teddy Swims":                     (1_100_000, "US", ["soul", "pop", "r&b"], "growing"),
-    "Sexyy Red":                       (520_000,   "US", ["hip-hop", "rap"], "stable"),
-    "The Last Dinner Party":           (320_000,   "GB", ["indie rock", "art rock", "indie"], "growing"),
-    "Mk.gee":                          (210_000,   "US", ["indie", "indie pop", "alternative"], "growing"),
+    "Chappell Roan":                   (2_611_546, "US", ["pop", "indie pop", "synth-pop"], "breakout"),
+    "Sabrina Carpenter":               (3_307_571, "US", ["pop", "dance pop"], "breakout"),
+    "Benson Boone":                    (1_518_165, "US", ["pop", "indie pop"], "growing"),
+    "Shaboozey":                       (765_986,   "US", ["country", "hip-hop", "country rap"], "breakout"),
+    "Tommy Richman":                   (1_517_706, "US", ["r&b", "soul", "hip-hop"], "growing"),
+    "Tyla":                            (1_536_833, "ZA", ["afropop", "pop", "r&b"], "growing"),
+    "Teddy Swims":                     (1_191_546, "US", ["soul", "pop", "r&b"], "growing"),
+    "Sexyy Red":                       (1_020_152, "US", ["hip-hop", "rap"], "stable"),
+    "The Last Dinner Party":           (821_151,   "GB", ["indie rock", "art rock", "indie"], "growing"),
+    "Mk.gee":                          (727_142,   "US", ["indie", "indie pop", "alternative"], "growing"),
     "Renée Rapp":                      (650_000,   "US", ["pop", "musical theatre", "indie pop"], "growing"),
-    "Doechii":                         (850_000,   "US", ["hip-hop", "rap", "r&b"], "breakout"),
-    "Lay Bankz":                       (110_000,   "US", ["hip-hop", "rap"], "growing"),
-    "Friko":                           (55_000,    "US", ["indie rock", "indie", "alternative"], "growing"),
-    "Been Stellar":                    (85_000,    "US", ["indie rock", "post-punk", "indie"], "growing"),
-    "Royel Otis":                      (210_000,   "AU", ["indie pop", "indie", "alternative"], "growing"),
-    "GloRilla":                        (820_000,   "US", ["hip-hop", "rap"], "stable"),
-    "Bossman DLow":                    (310_000,   "US", ["hip-hop", "rap", "drill"], "growing"),
-    "Gracie Abrams":                   (650_000,   "US", ["indie pop", "folk", "alternative"], "growing"),
-    "Wave to Earth":                   (420_000,   "KR", ["indie", "indie pop", "lo-fi"], "growing"),
-    "Laufey":                          (2_100_000, "IS", ["jazz", "indie pop", "bedroom pop"], "growing"),
-    "ILLIT":                           (430_000,   "KR", ["k-pop", "pop"], "growing"),
+    "Doechii":                         (2_078_299, "US", ["hip-hop", "rap", "r&b"], "breakout"),
+    "Lay Bankz":                       (690_410,   "US", ["hip-hop", "rap"], "growing"),
+    "Friko":                           (129_357,   "US", ["indie rock", "indie", "alternative"], "growing"),
+    "Been Stellar":                    (124_891,   "US", ["indie rock", "post-punk", "indie"], "growing"),
+    "Royel Otis":                      (1_001_401, "AU", ["indie pop", "indie", "alternative"], "growing"),
+    "GloRilla":                        (943_992,   "US", ["hip-hop", "rap"], "stable"),
+    "Bossman DLow":                    (391_382,   "US", ["hip-hop", "rap", "drill"], "growing"),
+    "Gracie Abrams":                   (1_852_509, "US", ["indie pop", "folk", "alternative"], "breakout"),
+    "Wave to Earth":                   (881_954,   "KR", ["indie", "indie pop", "lo-fi"], "growing"),
+    "Laufey":                          (2_416_152, "IS", ["jazz", "indie pop", "bedroom pop"], "growing"),
+    "ILLIT":                           (1_216_317, "KR", ["k-pop", "pop"], "growing"),
     "Babymonster":                     (520_000,   "KR", ["k-pop", "pop", "hip-hop"], "stable"),
-    "Kiss of Life":                    (320_000,   "KR", ["k-pop", "r&b", "funk"], "growing"),
-    "TWS":                             (210_000,   "KR", ["k-pop", "pop"], "growing"),
-    "English Teacher":                 (105_000,   "GB", ["indie rock", "post-punk", "indie"], "growing"),
-    "CHINCHILLA":                      (52_000,    "GB", ["pop", "indie pop"], "growing"),
+    "Kiss of Life":                    (749_959,   "KR", ["k-pop", "r&b", "funk"], "growing"),
+    "TWS":                             (257_793,   "KR", ["k-pop", "pop"], "growing"),
+    "English Teacher":                 (182_928,   "GB", ["indie rock", "post-punk", "indie"], "growing"),
+    "CHINCHILLA":                      (193_270,   "GB", ["pop", "indie pop"], "growing"),
     "Brigette Calls Me Baby":          (32_000,    "US", ["indie pop", "pop"], "growing"),
-    "Trout":                           (22_000,    "US", ["indie", "lo-fi", "indie rock"], "stable"),
-    "Fcukers":                         (16_000,    "GB", ["punk", "post-punk", "indie"], "growing"),
-    "Snow Strippers":                  (85_000,    "US", ["electronic", "darkwave", "synth-pop"], "growing"),
-    "Rachel Chinouriri":               (82_000,    "GB", ["indie pop", "r&b", "soul"], "growing"),
-    "Barry Can't Swim":                (155_000,   "GB", ["electronic", "dance", "uk garage"], "growing"),
-    "Lastlings":                       (62_000,    "AU", ["synth-pop", "electronic", "indie pop"], "stable"),
-    "Kenya Grace":                     (520_000,   "GB", ["electronic", "pop", "dance pop"], "growing"),
-    "Artemas":                         (310_000,   "GB", ["pop", "indie pop", "alternative"], "growing"),
-    "Dasha":                           (420_000,   "US", ["country", "pop country"], "growing"),
-    "Ella Langley":                    (210_000,   "US", ["country", "pop country"], "growing"),
-    "41":                              (105_000,   "US", ["pop", "indie pop"], "growing"),
-    "310babii":                        (55_000,    "US", ["hip-hop", "rap", "west coast rap"], "stable"),
+    "Trout":                           (9_004,     "US", ["indie", "lo-fi", "indie rock"], "stable"),
+    "Fcukers":                         (354_691,   "GB", ["punk", "post-punk", "indie"], "breakout"),
+    "Snow Strippers":                  (954_033,   "US", ["electronic", "darkwave", "synth-pop"], "breakout"),
+    "Rachel Chinouriri":               (777_140,   "GB", ["indie pop", "r&b", "soul"], "breakout"),
+    "Barry Can't Swim":                (409_306,   "GB", ["electronic", "dance", "uk garage"], "growing"),
+    "Lastlings":                       (149_102,   "AU", ["synth-pop", "electronic", "indie pop"], "stable"),
+    "Kenya Grace":                     (978_558,   "GB", ["electronic", "pop", "dance pop"], "growing"),
+    "Artemas":                         (1_656_112, "GB", ["pop", "indie pop", "alternative"], "breakout"),
+    "Dasha":                           (569_482,   "US", ["country", "pop country"], "growing"),
+    "Ella Langley":                    (429_342,   "US", ["country", "pop country"], "growing"),
+    "41":                              (361_200,   "US", ["pop", "indie pop"], "growing"),
+    "310babii":                        (265_252,   "US", ["hip-hop", "rap", "west coast rap"], "stable"),
     "Richy Mitch and the Coal Miners": (32_000,    "US", ["folk", "americana", "indie folk"], "stable"),
-    "Good Neighbours":                 (32_000,    "GB", ["indie rock", "indie", "alternative"], "growing"),
-    "Wasia Project":                   (26_000,    "GB", ["indie pop", "r&b", "alternative r&b"], "growing"),
-    "The Red Clay Strays":             (82_000,    "US", ["americana", "country rock", "blues rock"], "growing"),
-    "Megan Moroney":                   (620_000,   "US", ["country", "pop country"], "growing"),
-    "Tucker Wetmore":                  (210_000,   "US", ["country"], "growing"),
-    "Wyatt Flores":                    (155_000,   "US", ["country", "folk", "indie folk"], "growing"),
-    "Tanner Adell":                    (105_000,   "US", ["country", "pop country"], "growing"),
-    "Kadhja Bonet":                    (32_000,    "US", ["soul", "r&b", "folk"], "stable"),
-    "Jayahadadream":                   (22_000,    "GB", ["indie pop", "indie", "alternative"], "growing"),
-    "Mon Rovia":                       (16_000,    "GB", ["indie", "indie pop"], "stable"),
-    "Konyikeh":                        (11_000,    "GB", ["r&b", "soul", "indie"], "growing"),
-    "es.cher":                         (8_500,     "GB", ["indie pop", "bedroom pop", "lo-fi"], "growing"),
-    "Joy Anonymous":                   (26_000,    "US", ["electronic", "dance", "indie pop"], "growing"),
-    "Overmono":                        (210_000,   "GB", ["electronic", "techno", "dance"], "stable"),
-    "Nia Archives":                    (155_000,   "GB", ["jungle", "electronic", "drum and bass"], "growing"),
-    "Skin on Skin":                    (32_000,    "GB", ["electronic", "dance", "house"], "stable"),
-    "salute":                          (22_000,    "AU", ["electronic", "bass music", "dance"], "stable"),
-    "TSHA":                            (210_000,   "GB", ["electronic", "dance", "house"], "stable"),
-    "Model/Actriz":                    (52_000,    "US", ["post-punk", "art rock", "indie rock"], "growing"),
-    "Militarie Gun":                   (62_000,    "US", ["punk rock", "hardcore", "rock"], "growing"),
-    "Gel":                             (32_000,    "US", ["hardcore", "punk", "hardcore punk"], "growing"),
-    "Scowl":                           (42_000,    "US", ["hardcore", "punk", "hardcore punk"], "growing"),
-    "Zulu":                            (26_000,    "US", ["hardcore", "metal", "noise"], "stable"),
-    "Hotline TNT":                     (105_000,   "US", ["shoegaze", "indie rock", "noise pop"], "growing"),
-    "Wednesday":                       (155_000,   "US", ["indie rock", "country rock", "alternative"], "growing"),
-    "MJ Lenderman":                    (210_000,   "US", ["indie rock", "indie", "alternative"], "growing"),
-    "Blondshell":                      (210_000,   "US", ["indie rock", "alternative rock", "indie"], "growing"),
-    "Joanna Sternberg":                (32_000,    "US", ["folk", "indie folk", "singer-songwriter"], "stable"),
-    "Kara Jackson":                    (82_000,    "US", ["folk", "indie folk", "singer-songwriter"], "growing"),
-    "Hemlocke Springs":                (105_000,   "US", ["indie pop", "pop", "alternative"], "growing"),
-    "Say She She":                     (62_000,    "US", ["soul", "funk", "r&b"], "growing"),
-    "Charlotte Cardin":                (310_000,   "CA", ["pop", "indie pop", "electropop"], "stable"),
-    "NewJeans":                        (2_500_000, "KR", ["k-pop", "pop", "r&b"], "stable"),
-    "LE SSERAFIM":                     (2_100_000, "KR", ["k-pop", "pop", "dance pop"], "stable"),
-    "RIIZE":                           (620_000,   "KR", ["k-pop", "pop"], "growing"),
-    "ZEROBASEONE":                     (520_000,   "KR", ["k-pop", "pop"], "growing"),
-    "BOYNEXTDOOR":                     (310_000,   "KR", ["k-pop", "pop", "indie pop"], "growing"),
-    "PLAVE":                           (420_000,   "KR", ["k-pop", "pop", "virtual idol"], "growing"),
-    "XG":                              (620_000,   "JP", ["k-pop", "pop", "hip-hop"], "growing"),
-    "QWER":                            (210_000,   "KR", ["k-pop", "pop rock", "indie"], "growing"),
-    "KATSEYE":                         (155_000,   "US", ["k-pop", "pop", "dance pop"], "growing"),
-    "UNIS":                            (105_000,   "KR", ["k-pop", "pop"], "growing"),
+    "Good Neighbours":                 (520_859,   "GB", ["indie rock", "indie", "alternative"], "breakout"),
+    "Wasia Project":                   (519_313,   "GB", ["indie pop", "r&b", "alternative r&b"], "growing"),
+    "The Red Clay Strays":             (316_439,   "US", ["americana", "country rock", "blues rock"], "growing"),
+    "Megan Moroney":                   (318_585,   "US", ["country", "pop country"], "growing"),
+    "Tucker Wetmore":                  (166_986,   "US", ["country"], "growing"),
+    "Wyatt Flores":                    (144_405,   "US", ["country", "folk", "indie folk"], "growing"),
+    "Tanner Adell":                    (54_654,    "US", ["country", "pop country"], "growing"),
+    "Kadhja Bonet":                    (216_411,   "US", ["soul", "r&b", "folk"], "stable"),
+    "Jayahadadream":                   (11_204,    "GB", ["indie pop", "indie", "alternative"], "growing"),
+    "Mon Rovia":                       (115,       "GB", ["indie", "indie pop"], "stable"),
+    "Konyikeh":                        (17_720,    "GB", ["r&b", "soul", "indie"], "growing"),
+    "es.cher":                         (73_001,    "GB", ["indie pop", "bedroom pop", "lo-fi"], "growing"),
+    "Joy Anonymous":                   (104_920,   "US", ["electronic", "dance", "indie pop"], "growing"),
+    "Overmono":                        (293_570,   "GB", ["electronic", "techno", "dance"], "stable"),
+    "Nia Archives":                    (395_664,   "GB", ["jungle", "electronic", "drum and bass"], "growing"),
+    "Skin on Skin":                    (160_357,   "GB", ["electronic", "dance", "house"], "stable"),
+    "salute":                          (302_787,   "AU", ["electronic", "bass music", "dance"], "stable"),
+    "TSHA":                            (226_904,   "GB", ["electronic", "dance", "house"], "stable"),
+    "Model/Actriz":                    (181_719,   "US", ["post-punk", "art rock", "indie rock"], "growing"),
+    "Militarie Gun":                   (140_893,   "US", ["punk rock", "hardcore", "rock"], "growing"),
+    "Gel":                             (151_646,   "US", ["hardcore", "punk", "hardcore punk"], "growing"),
+    "Scowl":                           (157_522,   "US", ["hardcore", "punk", "hardcore punk"], "growing"),
+    "Zulu":                            (113_796,   "US", ["hardcore", "metal", "noise"], "stable"),
+    "Hotline TNT":                     (106_598,   "US", ["shoegaze", "indie rock", "noise pop"], "growing"),
+    "Wednesday":                       (383_739,   "US", ["indie rock", "country rock", "alternative"], "growing"),
+    "MJ Lenderman":                    (381_577,   "US", ["indie rock", "indie", "alternative"], "growing"),
+    "Blondshell":                      (379_156,   "US", ["indie rock", "alternative rock", "indie"], "growing"),
+    "Joanna Sternberg":                (75_781,    "US", ["folk", "indie folk", "singer-songwriter"], "stable"),
+    "Kara Jackson":                    (97_782,    "US", ["folk", "indie folk", "singer-songwriter"], "growing"),
+    "Hemlocke Springs":                (501_743,   "US", ["indie pop", "pop", "alternative"], "growing"),
+    "Say She She":                     (153_456,   "US", ["soul", "funk", "r&b"], "growing"),
+    "Charlotte Cardin":                (246_279,   "CA", ["pop", "indie pop", "electropop"], "stable"),
+    "NewJeans":                        (1_857_678, "KR", ["k-pop", "pop", "r&b"], "stable"),
+    "LE SSERAFIM":                     (1_725_197, "KR", ["k-pop", "pop", "dance pop"], "stable"),
+    "RIIZE":                           (420_462,   "KR", ["k-pop", "pop"], "growing"),
+    "ZEROBASEONE":                     (343_618,   "KR", ["k-pop", "pop"], "growing"),
+    "BOYNEXTDOOR":                     (370_349,   "KR", ["k-pop", "pop", "indie pop"], "growing"),
+    "PLAVE":                           (151_549,   "KR", ["k-pop", "pop", "virtual idol"], "growing"),
+    "XG":                              (870_660,   "JP", ["k-pop", "pop", "hip-hop"], "growing"),
+    "QWER":                            (91_077,    "KR", ["k-pop", "pop rock", "indie"], "growing"),
+    "KATSEYE":                         (1_631_872, "US", ["k-pop", "pop", "dance pop"], "breakout"),
+    "UNIS":                            (109_754,   "KR", ["k-pop", "pop"], "growing"),
     "bad invitations":                 (22_000,    "US", ["indie rock", "indie", "lo-fi"], "stable"),
-    "bar italia":                      (105_000,   "GB", ["indie rock", "post-punk", "shoegaze"], "stable"),
-    "Geese":                           (82_000,    "US", ["indie rock", "art rock", "alternative"], "growing"),
-    "Nation of Language":              (125_000,   "US", ["synth-pop", "new wave", "indie pop"], "stable"),
-    "Paris Paloma":                    (420_000,   "GB", ["folk pop", "indie folk", "singer-songwriter"], "growing"),
-    "Isabel LaRosa":                   (210_000,   "US", ["indie pop", "pop", "bedroom pop"], "growing"),
-    "grentperez":                      (520_000,   "AU", ["indie pop", "pop", "r&b"], "growing"),
-    "Stephen Sanchez":                 (820_000,   "US", ["pop", "indie pop", "soft rock"], "growing"),
-    "d4vd":                            (620_000,   "US", ["indie pop", "bedroom pop", "r&b"], "growing"),
+    "bar italia":                      (276_213,   "GB", ["indie rock", "post-punk", "shoegaze"], "stable"),
+    "Geese":                           (585_682,   "US", ["indie rock", "art rock", "alternative"], "growing"),
+    "Nation of Language":              (258_183,   "US", ["synth-pop", "new wave", "indie pop"], "stable"),
+    "Paris Paloma":                    (759_415,   "GB", ["folk pop", "indie folk", "singer-songwriter"], "growing"),
+    "Isabel LaRosa":                   (1_131_034, "US", ["indie pop", "pop", "bedroom pop"], "breakout"),
+    "grentperez":                      (685_462,   "AU", ["indie pop", "pop", "r&b"], "growing"),
+    "Stephen Sanchez":                 (1_565_323, "US", ["pop", "indie pop", "soft rock"], "growing"),
+    "d4vd":                            (2_343_122, "US", ["indie pop", "bedroom pop", "r&b"], "breakout"),
     "Lizzie McAlpine":                 (620_000,   "US", ["folk pop", "indie folk", "singer-songwriter"], "growing"),
-    "Noah Kahan":                      (3_100_000, "US", ["folk", "indie folk", "singer-songwriter"], "stable"),
-    "Zach Bryan":                      (5_200_000, "US", ["country", "americana", "folk"], "stable"),
-    "Warren Zeiders":                  (620_000,   "US", ["country", "pop country"], "growing"),
-    "Sam Barber":                      (210_000,   "US", ["country", "folk"], "growing"),
-    "Megan Thee Stallion":             (8_200_000, "US", ["hip-hop", "rap", "trap"], "stable"),
-    "Central Cee":                     (3_100_000, "GB", ["uk rap", "hip-hop", "drill"], "stable"),
-    "Ice Spice":                       (2_600_000, "US", ["hip-hop", "rap", "drill"], "stable"),
+    "Noah Kahan":                      (1_643_871, "US", ["folk", "indie folk", "singer-songwriter"], "stable"),
+    "Zach Bryan":                      (1_224_413, "US", ["country", "americana", "folk"], "stable"),
+    "Warren Zeiders":                  (180_353,   "US", ["country", "pop country"], "growing"),
+    "Sam Barber":                      (307_492,   "US", ["country", "folk"], "growing"),
+    "Megan Thee Stallion":             (2_394_657, "US", ["hip-hop", "rap", "trap"], "stable"),
+    "Central Cee":                     (1_346_501, "GB", ["uk rap", "hip-hop", "drill"], "stable"),
+    "Ice Spice":                       (1_520_504, "US", ["hip-hop", "rap", "drill"], "stable"),
 }
 
 # Real album data for major artists; others get generated fallbacks
@@ -220,12 +221,15 @@ def _album_id(artist: str, title: str) -> str:
 
 
 def _listeners_history(base: int, growth_type: str) -> list:
-    """14 listener counts oldest→today, ending at `base`."""
+    """14 listener counts oldest→today, ending at `base`.
+    Daily noise (±12%) simulates organic fluctuations: bad weeks,
+    playlist drops, viral moments."""
     lo, hi = GROWTH[growth_type]
     values = [base]
     for _ in range(DAYS - 1):
         r = random.uniform(lo, hi)
-        values.append(max(500, int(values[-1] / (1 + r))))
+        noise = random.uniform(-0.12, 0.12)
+        values.append(max(500, int(values[-1] / (1 + r + noise))))
     values.reverse()
     return values
 
@@ -285,7 +289,11 @@ def load_lastfm(cur, load_id: str, dates: list):
             (artist_name, mbid, listeners, playcount, url,
              scraped_at, scraped_date, _dlt_load_id, _dlt_id)
         VALUES %s
-        ON CONFLICT (_dlt_id) DO NOTHING
+        ON CONFLICT (_dlt_id) DO UPDATE
+            SET listeners    = EXCLUDED.listeners,
+                playcount    = EXCLUDED.playcount,
+                scraped_at   = EXCLUDED.scraped_at,
+                _dlt_load_id = EXCLUDED._dlt_load_id
     """, rows, page_size=500)
     print(f"  stg_lastfm_artists    : {len(rows)} rows  ({DAYS} days × {len(ARTISTS)} artists)")
 
@@ -301,7 +309,10 @@ def load_tags(cur, load_id: str):
             _dlt_id      varchar NOT NULL
         )
     """)
-    cur.execute("TRUNCATE staging.stg_lastfm_artist_tags")
+    cur.execute("""
+        CREATE UNIQUE INDEX IF NOT EXISTS stg_lastfm_artist_tags_dlt_id
+        ON staging.stg_lastfm_artist_tags (_dlt_id)
+    """)
 
     scraped_at = datetime.now(timezone.utc)
     rows = []
@@ -315,6 +326,7 @@ def load_tags(cur, load_id: str):
         INSERT INTO staging.stg_lastfm_artist_tags
             (artist_name, tag_name, tag_count, scraped_at, _dlt_load_id, _dlt_id)
         VALUES %s
+        ON CONFLICT (_dlt_id) DO NOTHING
     """, rows, page_size=500)
     print(f"  stg_lastfm_artist_tags: {len(rows)} rows")
 
@@ -334,7 +346,10 @@ def load_musicbrainz(cur, load_id: str):
             _dlt_id        varchar NOT NULL
         )
     """)
-    cur.execute("TRUNCATE staging.stg_musicbrainz_artists")
+    cur.execute("""
+        CREATE UNIQUE INDEX IF NOT EXISTS stg_musicbrainz_artists_dlt_id
+        ON staging.stg_musicbrainz_artists (_dlt_id)
+    """)
 
     scraped_at = datetime.now(timezone.utc)
     rows = []
@@ -354,6 +369,7 @@ def load_musicbrainz(cur, load_id: str):
             (mbid, name, sort_name, country, disambiguation, artist_type,
              debut_year, scraped_at, _dlt_load_id, _dlt_id)
         VALUES %s
+        ON CONFLICT (_dlt_id) DO NOTHING
     """, rows, page_size=200)
     print(f"  stg_musicbrainz_artists: {len(rows)} rows")
 
@@ -405,7 +421,9 @@ def load_spotify(cur, load_id: str):
 
 def main():
     today = date.today()
-    dates = [today - timedelta(days=i) for i in range(DAYS - 1, -1, -1)]
+    # End 2 days ago — June 9 is reserved for real Last.fm scrape
+    end_date = today - timedelta(days=2)
+    dates = [end_date - timedelta(days=i) for i in range(DAYS - 1, -1, -1)]
     load_id = str(datetime.now(timezone.utc).timestamp())
 
     print(f"Connecting to {DB['host']}:{DB['port']}/{DB['dbname']} ...")

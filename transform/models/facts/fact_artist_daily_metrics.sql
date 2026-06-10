@@ -15,9 +15,7 @@
     breakout_score   = normalised composite index 0–100, designed to surface
                        fast-growing underground artists:
                          70%  PERCENT_RANK of growth_velocity within the day
-                              (relative ranking — highest growth = highest score)
                          30%  inverse PERCENT_RANK of listener count within the day
-                              (niche bonus — fewer listeners = higher score)
                        Artists with NULL growth_velocity (first day) receive 0.
 
   spotify_popularity / spotify_followers permanently omitted — removed from the
@@ -27,13 +25,16 @@
 */
 
 WITH lastfm_daily AS (
-    SELECT
+    -- DISTINCT ON deduplicates mock vs real rows for the same artist+date;
+    -- keeps the row with the highest listener count (real API data wins over mock).
+    SELECT DISTINCT ON (lower(trim(artist_name)), scraped_date::date)
         artist_name,
         scraped_date::date      AS metric_date,
         listeners               AS lastfm_listeners,
         playcount               AS lastfm_playcount
     FROM {{ source('staging', 'stg_lastfm_artists') }}
     WHERE scraped_date IS NOT NULL
+    ORDER BY lower(trim(artist_name)), scraped_date::date, listeners DESC
 ),
 
 with_velocity AS (
