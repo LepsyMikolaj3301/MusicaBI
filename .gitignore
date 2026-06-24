@@ -219,3 +219,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# dbt user settings
+transform/.user.yml
+
+.venv-dbt

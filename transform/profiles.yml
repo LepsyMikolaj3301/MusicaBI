@@ -1,0 +1,12 @@
+musicabi:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: "{{ env_var('DBT_POSTGRES_HOST', 'localhost') }}"
+      port: "{{ env_var('DBT_POSTGRES_PORT', '5432') | int }}"
+      user: "{{ env_var('POSTGRES_USER', 'admin') }}"
+      password: "{{ env_var('POSTGRES_PASSWORD', 'admin') }}"
+      dbname: "{{ env_var('POSTGRES_DB', 'MusicaBi') }}"
+      schema: dimensional
+      threads: 4

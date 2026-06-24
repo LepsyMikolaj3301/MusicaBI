@@ -18,6 +18,9 @@ def _fetch_trends_batch(artist_names: list[str], timeframe: str) -> dict[str, di
     Returns {} on any error (rate-limits, captcha, network) so callers can
     fall back to is_estimated=True rows without crashing the pipeline.
     """
+    if dlt.config.get("sources.google_trends.mock") is not False:
+        return {}
+
     try:
         from pytrends.request import TrendReq
 

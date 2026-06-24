@@ -7,6 +7,8 @@ requires-python = ">=3.12"
 dependencies = [
     "dlt[postgres]>=1.4.0",
     "pytrends>=4.9.0",
+    "dbt-core>=1.8.0",
+    "dbt-postgres>=1.8.0",
 ]
 
 [project.optional-dependencies]

@@ -1,0 +1,76 @@
+version: 2
+
+sources:
+  - name: staging
+    schema: staging
+    tables:
+      - name: stg_lastfm_artists
+        description: Daily Last.fm artist metrics (listeners, playcount) — merge disposition, one row per artist per scraped_date.
+      - name: stg_lastfm_artist_tags
+        description: Top-10 community tags per artist from Last.fm — replace disposition.
+      - name: stg_musicbrainz_artists
+        description: Artist metadata from MusicBrainz (country, debut_year, mbid) — replace disposition.
+      - name: stg_spotify_albums
+        description: Album catalogue from Spotify (title, release_date, type) — replace disposition.
+
+models:
+  - name: dim_date
+    description: Calendar dimension — one row per day.
+    columns:
+      - name: date_id
+        tests: [unique, not_null]
+      - name: full_date
+        tests: [unique, not_null]
+
+  - name: dim_artist
+    description: Unique monitored artists enriched from MusicBrainz and Spotify.
+    columns:
+      - name: artist_id
+        tests: [unique, not_null]
+      - name: name
+        tests: [not_null]
+
+  - name: dim_album
+    description: Album catalogue from Spotify with parsed release dates.
+    columns:
+      - name: album_id
+        tests: [unique, not_null]
+      - name: spotify_album_id
+        tests: [unique, not_null]
+
+  - name: dim_genre
+    description: Curated genre dictionary derived from high-weight Last.fm tags (tag_count >= 30).
+    columns:
+      - name: genre_id
+        tests: [unique, not_null]
+      - name: genre_name
+        tests: [unique, not_null]
+
+  - name: dim_community_tag
+    description: All Last.fm community tags (unfiltered) — full folksonomy vocabulary.
+    columns:
+      - name: tag_id
+        tests: [unique, not_null]
+      - name: tag_name
+        tests: [unique, not_null]
+
+  - name: bridge_artist_genre
+    description: Many-to-many mapping between artists and curated genres.
+
+  - name: bridge_artist_tag
+    description: Many-to-many mapping between artists and all community tags.
+
+  - name: fact_artist_daily_metrics
+    description: >
+      Daily artist metrics fact table. Grain: one row per artist per day.
+      Google Trends scores are forward-filled from weekly source data.
+      growth_velocity and breakout_score are derived non-additive measures.
+    columns:
+      - name: artist_id
+        tests: [not_null]
+      - name: date_id
+        tests: [not_null]
+      - name: breakout_score
+        description: >
+          Normalised index 0-100. 70% PERCENT_RANK of growth_velocity + 30% inverse
+          PERCENT_RANK of listener count (niche bonus), both partitioned by day.
