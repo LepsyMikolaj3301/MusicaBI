@@ -20,6 +20,8 @@ WITH parsed AS (
         album_type
     FROM {{ source('staging', 'stg_spotify_albums') }}
     WHERE spotify_album_id IS NOT NULL
+      AND title NOT LIKE '% — Singles'
+      AND title NOT LIKE '% - Singles'
 )
 
 SELECT
